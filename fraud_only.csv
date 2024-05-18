@@ -1,0 +1,686 @@
+PolicyNumber,PolicyType,Sex,Age,MaritalStatus,DriverRating,PastClaims,Deductible,AddressChange,VehicleCategory,Make,VehicleAge,VehiclePrice,AgentType,RepNumber,Year,Month,Week,Day,CarsInvolved,CollisionArea,Fault,InforceAccident,WitnessPresent,PoliceReport,MonthClaimed,WeekClaimed,DayClaimed,InforceClaim,Claim,Fraud
+29,All Perils,Male,18,Single,1,0,400,0,Sedan,Honda,0,>69000,External,9,2021,Jul,1,Saturday,1,Urban,Policyholder,>30,No,No,Sep,4,Tuesday,>30,64194.69635,1
+53,Collision,Male,21,Married,4,0,400,0,Sport,Honda,4,>69000,External,4,2021,Jul,3,Sunday,1,Rural,Policyholder,>30,No,No,Jan,4,Wednesday,>30,61043.34801,1
+97,Collision,Male,38,Married,2,1,400,0,Sedan,Toyota,7,20000 to 29000,External,7,2021,Nov,2,Friday,1,Urban,Policyholder,>30,No,No,Jan,1,Tuesday,>30,5097.074524,1
+101,All Perils,Male,31,Married,1,>4,400,0,Utility,Chevrolet,7,>69000,External,2,2021,Nov,3,Tuesday,1,Urban,Policyholder,>30,No,No,Jan,2,Wednesday,>30,50754.80403,1
+119,All Perils,Male,68,Single,3,2 to 4,400,0,Sedan,Mazda,5,20000 to 29000,External,9,2021,Nov,5,Monday,1,Urban,Policyholder,>30,No,No,Dec,1,Wednesday,>30,1063.262958,1
+120,All Perils,Male,20,Single,3,0,400,0,Sedan,Honda,0,>69000,External,7,2021,Dec,1,Friday,1,Rural,Policyholder,>30,No,No,Dec,3,Friday,>30,69029.5914,1
+148,All Perils,Male,39,Married,3,0,400,<0.5,Sedan,Toyota,>7,30000 to 39000,External,1,2021,Dec,1,Monday,2,Rural,Policyholder,>30,No,No,May,3,Tuesday,>30,9595.953938,1
+161,All Perils,Male,33,Married,3,0,400,0,Sedan,Chevrolet,6,>69000,External,12,2021,Dec,2,Friday,1,Urban,Policyholder,>30,No,No,Jan,2,Friday,>30,51335.82906,1
+190,All Perils,Male,43,Married,2,2 to 4,400,4 to 8,Sedan,Mazda,>7,30000 to 39000,External,10,2021,Dec,2,Monday,2,Urban,Policyholder,>30,No,No,Jan,1,Monday,>30,50130.99946,1
+195,Collision,Male,39,Married,3,0,400,0,Sport,Honda,>7,>69000,External,13,2021,Dec,3,Thursday,1,Urban,Policyholder,>30,No,No,Jan,1,Monday,>30,63282.71437,1
+205,All Perils,Male,41,Married,3,2 to 4,500,2 to 3,Sedan,Hyundai,7,<20000,External,16,2021,Dec,3,Friday,1,Urban,Third Party,0,No,No,Jan,3,Tuesday,>30,2488.549524,1
+207,Collision,Male,27,Married,4,2 to 4,400,0,Sedan,Hyundai,4,>69000,External,11,2021,Dec,3,Saturday,1,Urban,Policyholder,>30,No,No,Jan,2,Monday,>30,55309.92074,1
+233,Collision,Male,26,Married,2,2 to 4,400,0,Sedan,Chevrolet,7,20000 to 29000,External,12,2021,Dec,4,Thursday,1,Urban,Policyholder,>30,No,No,Jan,1,Monday,>30,9465.807653,1
+236,All Perils,Male,26,Married,4,0,400,0,Sedan,Chevrolet,6,20000 to 29000,External,16,2021,Dec,4,Thursday,1,Urban,Policyholder,>30,No,No,Jan,2,Tuesday,>30,2034.566034,1
+309,All Perils,Male,46,Married,1,0,400,<0.5,Sedan,Hyundai,>7,<20000,External,7,2021,Dec,5,Friday,1,Rural,Policyholder,>30,No,No,Jan,2,Tuesday,>30,9060.441612,1
+310,All Perils,Male,20,Single,3,1,400,0,Sedan,Honda,0,>69000,External,6,2021,Dec,5,Friday,1,Urban,Policyholder,>30,No,No,Jan,1,Tuesday,>30,77167.22325,1
+316,All Perils,Male,20,Single,1,1,400,4 to 8,Utility,Honda,0,>69000,External,14,2021,Dec,5,Friday,2,Urban,Policyholder,>30,No,No,Jan,2,Monday,>30,65677.76153,1
+318,Collision,Male,20,Single,4,1,400,0,Sedan,Honda,0,>69000,External,16,2021,Jan,1,Saturday,1,Urban,Policyholder,>30,No,No,Jan,1,Wednesday,>30,58916.53927,1
+367,All Perils,Male,50,Married,2,0,400,<0.5,Sedan,Hyundai,7,20000 to 29000,External,8,2021,Jan,1,Monday,1,Urban,Policyholder,>30,No,No,Jan,1,Wednesday,>30,9715.184265,1
+381,Collision,Male,61,Married,2,2 to 4,400,0,Sedan,Ford,>7,40000 to 59000,External,6,2021,Jan,1,Monday,1,Urban,Policyholder,>30,No,No,Jan,2,Monday,>30,74073.45732,1
+406,All Perils,Male,54,Married,4,>4,400,0,Sedan,Acura,>7,>69000,External,7,2021,Jan,1,Wednesday,1,Urban,Policyholder,>30,No,No,Jan,3,Monday,>30,56622.07467,1
+509,All Perils,Male,36,Single,4,0,400,0,Sedan,Toyota,6,<20000,External,1,2021,Jan,2,Sunday,1,Rural,Policyholder,>30,No,No,Jan,3,Thursday,>30,1932.728985,1
+523,Liability,Male,37,Married,2,2 to 4,400,0,Sport,Chevrolet,>7,20000 to 29000,External,13,2021,Jan,2,Monday,1,Urban,Policyholder,>30,No,No,Jan,4,Tuesday,>30,7618.07243,1
+529,Collision,Male,39,Married,4,1,400,0,Sedan,Mazda,7,40000 to 59000,External,15,2021,Jan,2,Monday,1,Rural,Policyholder,>30,No,No,Jan,2,Tuesday,>30,16607.22218,1
+537,Collision,Male,33,Married,1,0,400,0,Sedan,Chevrolet,7,20000 to 29000,External,13,2021,Jan,2,Monday,1,Urban,Policyholder,>30,No,No,Jan,3,Wednesday,>30,9003.519007,1
+539,All Perils,Male,37,Married,2,0,400,0,Sedan,Honda,7,20000 to 29000,External,5,2021,Jan,2,Monday,1,Urban,Policyholder,>30,No,No,Jan,2,Wednesday,>30,2419.626312,1
+543,All Perils,Male,19,Single,4,0,400,0,Sedan,Honda,0,>69000,External,12,2021,Jan,2,Tuesday,1,Urban,Policyholder,>30,No,No,Jan,4,Friday,>30,56032.06318,1
+557,All Perils,Male,29,Married,3,0,400,0,Sedan,Hyundai,6,20000 to 29000,External,5,2021,Jan,2,Wednesday,1,Urban,Policyholder,>30,No,No,Jan,4,Monday,>30,6905.826925,1
+607,All Perils,Male,22,Single,1,2 to 4,400,0,Sedan,Hyundai,5,<20000,External,4,2021,Jan,3,Saturday,1,Urban,Policyholder,>30,No,No,Jan,3,Monday,>30,2309.912884,1
+618,Collision,Male,28,Single,3,2 to 4,400,0,Sedan,Toyota,5,<20000,External,8,2021,Jan,3,Saturday,1,Urban,Policyholder,>30,No,No,Jan,5,Monday,>30,4126.084027,1
+701,All Perils,Male,33,Single,1,1,400,0,Sedan,Mazda,6,20000 to 29000,External,8,2021,Jan,3,Wednesday,1,Rural,Policyholder,>30,No,No,Feb,1,Tuesday,>30,3438.286739,1
+758,All Perils,Male,33,Single,2,2 to 4,400,0,Sedan,Dodge,6,30000 to 39000,External,16,2021,Jan,4,Friday,1,Urban,Policyholder,>30,No,No,Feb,1,Tuesday,>30,52273.79195,1
+768,Collision,Male,53,Married,4,0,400,0,Sedan,Toyota,>7,20000 to 29000,External,4,2021,Jan,4,Saturday,1,Urban,Policyholder,>30,No,No,Jan,4,Wednesday,>30,1725.435719,1
+790,All Perils,Male,39,Married,2,0,400,0,Sedan,Hyundai,6,20000 to 29000,External,11,2021,Jan,4,Sunday,1,Urban,Policyholder,>30,No,No,Jan,4,Wednesday,>30,3513.37674,1
+797,Collision,Male,32,Married,4,1,400,0,Sedan,Mazda,7,20000 to 29000,External,6,2021,Jan,4,Sunday,1,Urban,Policyholder,>30,No,No,Jan,4,Wednesday,>30,8086.770205,1
+799,All Perils,Female,27,Single,2,1,400,4 to 8,Sedan,Chevrolet,7,>69000,External,6,2021,Jan,4,Monday,2,Urban,Policyholder,>30,No,No,Feb,1,Wednesday,>30,74810.30939,1
+814,Collision,Male,43,Married,1,2 to 4,400,0,Sedan,Mazda,7,20000 to 29000,External,3,2021,Jan,4,Monday,1,Urban,Policyholder,>30,No,Yes,Feb,4,Monday,>30,5085.30042,1
+824,Collision,Male,33,Single,4,0,400,0,Sedan,Honda,5,20000 to 29000,External,6,2021,Jan,4,Monday,1,Urban,Policyholder,>30,No,No,Feb,1,Tuesday,>30,9168.172503,1
+828,Collision,Male,27,Married,1,1,400,0,Sedan,Hyundai,7,30000 to 39000,External,14,2021,Jan,4,Tuesday,1,Urban,Policyholder,>30,No,No,Apr,1,Tuesday,>30,55894.14284,1
+831,Liability,Male,39,Married,3,>4,400,0,Sport,Chevrolet,7,30000 to 39000,External,6,2021,Jan,4,Tuesday,1,Urban,Policyholder,>30,No,No,Jan,4,Tuesday,>30,26599.61261,1
+845,All Perils,Male,19,Single,3,0,400,0,Sedan,Honda,0,>69000,External,15,2021,Jan,4,Tuesday,1,Urban,Policyholder,>30,No,No,Feb,2,Wednesday,>30,60393.59647,1
+849,All Perils,Male,65,Married,3,2 to 4,400,0,Sedan,Saab,>7,30000 to 39000,External,2,2021,Jan,4,Tuesday,1,Urban,Policyholder,>30,No,No,Feb,1,Friday,>30,16558.43177,1
+891,Collision,Male,48,Married,4,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,6,2021,Jan,4,Thursday,1,Urban,Policyholder,>30,No,No,Apr,2,Wednesday,>30,6241.311042,1
+895,Collision,Male,24,Married,1,2 to 4,400,0,Sedan,Nissan,5,30000 to 39000,External,12,2021,Jan,4,Thursday,1,Rural,Policyholder,>30,No,No,Feb,1,Thursday,>30,57741.21514,1
+901,All Perils,Male,26,Single,1,0,400,0,Sedan,Hyundai,6,40000 to 59000,External,7,2021,Jan,5,Friday,1,Rural,Policyholder,>30,No,No,Jan,5,Monday,>30,693.5115464,1
+906,All Perils,Male,61,Married,1,2 to 4,400,0,Sedan,Toyota,>7,20000 to 29000,External,13,2021,Jan,5,Friday,1,Urban,Policyholder,>30,No,No,Feb,2,Friday,>30,3785.443185,1
+911,All Perils,Male,57,Married,2,2 to 4,400,1,Sedan,Toyota,>7,20000 to 29000,External,16,2021,Jan,5,Friday,1,Urban,Policyholder,>30,No,No,Feb,1,Tuesday,>30,4830.468472,1
+937,All Perils,Male,35,Married,4,1,400,0,Sedan,Chevrolet,5,20000 to 29000,External,14,2021,Jan,5,Saturday,1,Urban,Policyholder,>30,No,No,Feb,2,Thursday,>30,9420.044042,1
+946,All Perils,Male,46,Married,3,2 to 4,400,4 to 8,Sedan,Mazda,5,20000 to 29000,External,6,2021,Jan,5,Sunday,2,Rural,Policyholder,>30,No,No,Mar,4,Friday,>30,1260.695958,1
+950,Collision,Male,27,Married,3,2 to 4,400,0,Sedan,Hyundai,7,30000 to 39000,External,15,2021,Jan,5,Sunday,1,Rural,Policyholder,>30,No,No,Feb,1,Tuesday,>30,26089.62882,1
+955,All Perils,Male,43,Married,3,1,400,0,Sedan,Honda,6,20000 to 29000,External,3,2021,Jan,5,Monday,1,Urban,Policyholder,>30,No,No,Feb,2,Tuesday,>30,1210.706207,1
+961,All Perils,Male,35,Married,3,0,400,0,Sedan,Toyota,7,20000 to 29000,External,7,2021,Jan,5,Monday,1,Urban,Policyholder,1 to 7,No,No,Feb,1,Tuesday,8 to 15,2873.861872,1
+964,Collision,Male,18,Single,3,0,400,0,Sport,Honda,3,>69000,External,4,2021,Jan,5,Monday,1,Rural,Policyholder,>30,No,No,Feb,1,Tuesday,>30,59551.89205,1
+999,All Perils,Male,31,Married,2,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,6,2021,Feb,1,Wednesday,1,Rural,Policyholder,>30,No,No,Feb,1,Friday,>30,3614.45704,1
+1021,Collision,Male,43,Married,4,1,500,2 to 3,Sedan,Mazda,>7,30000 to 39000,External,5,2021,Nov,2,Friday,1,Urban,Third Party,>30,No,No,Nov,3,Monday,>30,10508.86843,1
+1024,All Perils,Male,31,Married,1,2 to 4,700,0,Sedan,Acura,7,30000 to 39000,External,1,2021,Feb,1,Thursday,1,Urban,Policyholder,>30,No,No,Feb,2,Monday,>30,63535.61003,1
+1055,All Perils,Male,35,Single,3,0,700,0,Sedan,Hyundai,7,20000 to 29000,External,14,2021,Feb,1,Friday,1,Urban,Policyholder,>30,No,No,Feb,2,Friday,>30,4148.845001,1
+1063,All Perils,Male,43,Married,3,2 to 4,400,0,Sedan,Chevrolet,7,30000 to 39000,External,6,2021,Feb,1,Saturday,1,Urban,Policyholder,>30,No,No,Feb,2,Monday,>30,10176.01692,1
+1072,Collision,Male,17,Single,3,0,400,2 to 3,Sedan,Honda,0,>69000,External,8,2021,Feb,1,Saturday,2,Rural,Policyholder,>30,No,No,Feb,2,Thursday,>30,59263.70243,1
+1080,Collision,Male,31,Married,2,2 to 4,400,0,Sedan,Chevrolet,6,20000 to 29000,External,4,2021,Feb,1,Saturday,1,Urban,Policyholder,>30,No,No,Feb,2,Tuesday,>30,8331.755416,1
+1089,All Perils,Male,29,Married,1,1,400,0,Sedan,Honda,7,20000 to 29000,External,4,2021,Feb,1,Sunday,1,Rural,Policyholder,>30,No,No,Feb,2,Monday,>30,5030.501234,1
+1115,Collision,Male,40,Married,1,2 to 4,400,0,Sedan,Hyundai,5,30000 to 39000,External,7,2021,Feb,2,Tuesday,1,Urban,Policyholder,>30,No,No,Feb,4,Monday,>30,50077.31425,1
+1168,All Perils,Male,33,Married,3,1,400,0,Sedan,Toyota,6,20000 to 29000,External,4,2021,Feb,2,Friday,1,Urban,Policyholder,>30,No,No,Feb,3,Thursday,>30,7941.06075,1
+1183,Collision,Male,18,Single,2,0,400,0,Sport,Mazda,5,>69000,External,2,2021,Feb,2,Friday,1,Urban,Policyholder,>30,No,No,Mar,1,Wednesday,>30,59446.60799,1
+1200,Collision,Male,30,Single,3,1,400,0,Sedan,Hyundai,6,30000 to 39000,External,12,2021,Feb,2,Friday,1,Rural,Policyholder,>30,No,No,Feb,3,Friday,>30,42450.46141,1
+1232,All Perils,Male,52,Married,3,0,400,0,Sedan,Mazda,7,20000 to 29000,External,8,2021,Feb,2,Sunday,1,Urban,Policyholder,>30,No,No,Feb,3,Thursday,>30,8302.500167,1
+1339,Collision,Male,29,Single,3,1,400,0,Sedan,Honda,6,20000 to 29000,External,16,2021,Feb,3,Thursday,1,Urban,Policyholder,>30,No,No,Feb,3,Friday,>30,4438.625729,1
+1395,Collision,Male,65,Married,3,1,400,0,Sedan,Toyota,>7,20000 to 29000,External,9,2021,Feb,3,Saturday,3 to 4,Rural,Policyholder,>30,No,No,Apr,1,Friday,>30,1168.087551,1
+1419,Liability,Female,32,Single,3,1,400,0,Sport,Hyundai,5,20000 to 29000,External,16,2021,Feb,3,Saturday,1,Urban,Policyholder,>30,No,No,Mar,1,Wednesday,>30,4468.460916,1
+1427,All Perils,Male,30,Married,3,1,700,0,Sedan,Toyota,7,20000 to 29000,External,9,2021,Feb,3,Sunday,1,Urban,Policyholder,>30,No,No,Mar,1,Wednesday,>30,5147.145992,1
+1429,All Perils,Male,31,Single,2,0,500,2 to 3,Sedan,Toyota,6,20000 to 29000,External,10,2021,Feb,3,Sunday,2,Urban,Policyholder,>30,No,No,Mar,3,Friday,>30,6709.61088,1
+1457,All Perils,Male,20,Single,3,2 to 4,400,1,Sedan,Honda,0,>69000,External,9,2021,Feb,4,Monday,1,Urban,Policyholder,>30,No,No,Feb,4,Tuesday,>30,82211.85926,1
+1482,All Perils,Male,62,Married,4,2 to 4,400,0,Sedan,Acura,>7,30000 to 39000,External,10,2021,Feb,4,Tuesday,1,Urban,Policyholder,>30,No,No,Apr,4,Friday,>30,14285.50735,1
+1484,All Perils,Male,40,Married,1,2 to 4,400,0,Sedan,Honda,7,>69000,External,7,2021,Feb,4,Tuesday,1,Urban,Policyholder,>30,No,No,Mar,1,Wednesday,>30,71989.03218,1
+1521,All Perils,Male,32,Married,3,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,15,2021,Feb,4,Thursday,1,Urban,Policyholder,>30,No,No,Apr,3,Monday,>30,8720.027759,1
+1556,All Perils,Male,19,Single,2,0,400,0,Sedan,Honda,0,>69000,External,10,2021,Feb,4,Friday,1,Urban,Policyholder,>30,No,Yes,Mar,4,Monday,>30,62888.308,1
+1599,Collision,Male,22,Single,4,0,400,0,Sport,Honda,5,>69000,External,7,2021,Feb,4,Saturday,1,Urban,Policyholder,8 to 15,No,No,Mar,1,Tuesday,15 to 30,69032.49752,1
+1600,All Perils,Male,58,Married,4,2 to 4,400,0,Sedan,Hyundai,>7,30000 to 39000,External,5,2021,Feb,4,Sunday,3 to 4,Urban,Policyholder,>30,No,No,Mar,2,Tuesday,>30,39814.60761,1
+1661,All Perils,Male,34,Married,4,0,400,0,Sedan,Hyundai,7,30000 to 39000,External,6,2021,Mar,1,Tuesday,1,Rural,Policyholder,>30,No,No,Mar,2,Wednesday,>30,3467.164852,1
+1676,All Perils,Male,25,Single,4,0,400,0,Sedan,Honda,0,>69000,External,15,2021,Mar,1,Wednesday,1,Urban,Policyholder,>30,No,No,Mar,2,Monday,>30,59496.46326,1
+1683,All Perils,Male,38,Married,2,2 to 4,400,0,Sedan,Acura,7,30000 to 39000,External,9,2021,Mar,1,Wednesday,1,Urban,Policyholder,>30,No,No,Mar,2,Tuesday,>30,54863.31039,1
+1685,All Perils,Male,30,Single,2,1,400,0,Sedan,Chevrolet,5,>69000,External,9,2021,Mar,1,Wednesday,1,Rural,Policyholder,>30,No,No,Mar,1,Friday,>30,78743.07924,1
+1690,Collision,Male,34,Single,4,1,400,0,Sedan,Toyota,5,20000 to 29000,External,8,2021,Mar,1,Wednesday,1,Rural,Policyholder,>30,No,No,Mar,1,Wednesday,>30,1293.479743,1
+1738,All Perils,Male,36,Married,4,1,400,0,Sedan,Toyota,7,>69000,External,4,2021,Mar,1,Saturday,1,Urban,Policyholder,>30,No,No,Mar,2,Tuesday,>30,54029.94663,1
+1766,All Perils,Male,19,Single,2,1,400,0,Sedan,Honda,0,>69000,External,1,2021,Mar,1,Saturday,1,Urban,Policyholder,>30,No,No,Mar,2,Tuesday,>30,71748.16292,1
+1778,Collision,Male,29,Single,4,>4,400,0,Sedan,Mazda,6,30000 to 39000,External,3,2021,Mar,1,Sunday,1,Urban,Policyholder,>30,No,No,Mar,2,Monday,>30,32846.4562,1
+1781,Collision,Male,30,Married,4,2 to 4,400,0,Sedan,Mazda,6,>69000,External,4,2021,Mar,1,Sunday,1,Rural,Policyholder,>30,No,No,Mar,2,Monday,>30,55591.49362,1
+1790,Collision,Male,51,Married,4,2 to 4,400,0,Sedan,Toyota,>7,30000 to 39000,External,14,2021,Mar,1,Sunday,1,Urban,Policyholder,>30,No,No,Mar,2,Tuesday,>30,16497.39424,1
+1812,Collision,Male,19,Single,1,0,400,0,Sport,Honda,3,>69000,External,8,2021,Mar,1,Sunday,1,Urban,Policyholder,>30,No,No,Mar,3,Wednesday,>30,55178.634,1
+1856,Collision,Male,37,Married,1,0,400,0,Sedan,Mazda,6,30000 to 39000,External,10,2021,Mar,2,Monday,1,Urban,Policyholder,>30,No,No,Mar,2,Monday,>30,7713.78356,1
+1862,Liability,Male,50,Married,3,2 to 4,400,0,Sport,Toyota,>7,20000 to 29000,External,11,2021,Mar,2,Monday,1,Urban,Policyholder,>30,No,No,Mar,2,Thursday,>30,4144.860476,1
+1863,All Perils,Male,29,Single,2,1,400,0,Utility,Ford,7,>69000,External,11,2021,Mar,2,Monday,1,Urban,Policyholder,>30,No,No,Apr,1,Friday,>30,51938.49001,1
+1883,Collision,Male,36,Married,4,1,400,0,Sedan,Honda,6,30000 to 39000,External,10,2021,Mar,2,Tuesday,1,Urban,Policyholder,>30,No,No,Jul,1,Friday,>30,36423.28475,1
+1889,Collision,Female,47,Married,3,2 to 4,400,0,Sedan,Chevrolet,>7,>69000,External,15,2021,Mar,2,Tuesday,1,Urban,Policyholder,>30,No,No,Mar,2,Wednesday,>30,79076.27468,1
+1895,All Perils,Male,43,Married,3,1,400,0,Sedan,Honda,>7,30000 to 39000,External,11,2021,Mar,2,Wednesday,1,Urban,Policyholder,>30,No,No,Mar,2,Wednesday,>30,14922.01624,1
+1963,All Perils,Male,28,Married,1,>4,400,0,Sedan,Toyota,5,20000 to 29000,External,5,2021,Mar,2,Saturday,1,Urban,Policyholder,>30,No,No,Apr,1,Tuesday,>30,48847.37971,1
+2004,All Perils,Female,44,Married,4,0,400,0,Sedan,Mazda,6,20000 to 29000,External,3,2021,Mar,2,Sunday,1,Urban,Policyholder,>30,No,No,Mar,3,Monday,>30,4381.965081,1
+2028,All Perils,Male,65,Married,1,0,400,0,Utility,Acura,7,>69000,External,13,2021,Mar,3,Monday,1,Urban,Policyholder,>30,No,No,Mar,3,Thursday,>30,57426.14892,1
+2042,Collision,Male,55,Married,4,2 to 4,400,0,Sedan,Hyundai,6,30000 to 39000,External,9,2021,Mar,3,Tuesday,1,Urban,Policyholder,>30,No,No,Mar,3,Thursday,>30,11442.42825,1
+2104,Collision,Male,25,Single,1,0,400,0,Sedan,Honda,0,>69000,External,12,2021,Mar,3,Thursday,1,Urban,Policyholder,>30,No,No,Mar,3,Thursday,>30,59418.4288,1
+2143,Liability,Male,42,Married,1,0,500,2 to 3,Sport,Toyota,>7,30000 to 39000,External,7,2021,Jun,5,Friday,2,Urban,Third Party,>30,No,No,Jul,1,Tuesday,>30,7788.774512,1
+2144,All Perils,Male,55,Married,4,1,400,0,Sedan,Ford,7,40000 to 59000,External,13,2021,Mar,3,Saturday,1,Urban,Policyholder,>30,No,No,Mar,4,Tuesday,>30,20654.59389,1
+2168,All Perils,Male,55,Married,2,0,400,0,Sedan,Toyota,>7,<20000,External,3,2021,Mar,3,Saturday,1,Rural,Policyholder,>30,No,No,Apr,1,Friday,>30,7529.294081,1
+2174,All Perils,Male,45,Married,3,2 to 4,400,0,Sedan,Toyota,>7,20000 to 29000,External,7,2021,Mar,3,Sunday,3 to 4,Rural,Policyholder,>30,No,No,Mar,4,Tuesday,>30,3446.159045,1
+2186,Collision,Male,44,Married,3,0,400,0,Sedan,Hyundai,>7,<20000,External,11,2021,Mar,3,Sunday,1,Urban,Policyholder,>30,No,No,Mar,4,Monday,>30,3978.2324,1
+2203,All Perils,Male,33,Married,4,2 to 4,400,0,Sedan,Toyota,7,>69000,External,16,2021,Mar,4,Monday,1,Urban,Policyholder,>30,No,No,Mar,5,Monday,>30,74810.30939,1
+2205,Collision,Male,57,Married,1,0,400,0,Sedan,Toyota,>7,20000 to 29000,External,16,2021,Mar,4,Monday,1,Urban,Policyholder,>30,No,No,Apr,2,Friday,>30,8407.21997,1
+2221,Collision,Male,43,Married,2,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,5,2021,Mar,4,Monday,1,Urban,Policyholder,>30,No,No,Apr,1,Tuesday,>30,886.1877691,1
+2241,All Perils,Male,52,Married,1,1,400,0,Sedan,Toyota,>7,>69000,External,1,2021,Mar,4,Tuesday,1,Urban,Policyholder,>30,No,No,Aug,1,Tuesday,>30,69927.89407,1
+2254,All Perils,Male,17,Single,2,1,400,0,Sedan,Honda,0,>69000,External,8,2021,Mar,4,Wednesday,1,Urban,Policyholder,>30,No,No,Mar,4,Friday,>30,77972.4421,1
+2293,Collision,Male,52,Married,2,2 to 4,400,0,Sedan,Chevrolet,>7,30000 to 39000,External,10,2021,Mar,4,Thursday,1,Urban,Policyholder,>30,No,No,Apr,1,Friday,>30,67668.95452,1
+2318,All Perils,Male,42,Married,2,1,400,0,Sedan,Hyundai,7,20000 to 29000,External,1,2021,Mar,4,Saturday,1,Urban,Policyholder,>30,No,No,Apr,1,Friday,>30,2713.812847,1
+2339,Collision,Male,32,Married,1,1,400,0,Sedan,Chevrolet,6,20000 to 29000,External,16,2021,Mar,4,Saturday,1,Urban,Policyholder,>30,No,No,Apr,2,Thursday,>30,8317.186322,1
+2340,Collision,Male,60,Married,4,1,400,0,Sedan,Mazda,7,20000 to 29000,External,1,2021,Mar,4,Saturday,1,Urban,Policyholder,>30,No,No,Apr,1,Friday,>30,2449.524516,1
+2354,All Perils,Male,40,Married,3,2 to 4,400,0,Sedan,Chevrolet,7,30000 to 39000,External,3,2021,Mar,4,Sunday,1,Urban,Policyholder,>30,Yes,No,Apr,5,Friday,>30,16480.13615,1
+2384,Collision,Female,43,Married,3,0,400,0,Sedan,Mazda,7,20000 to 29000,External,13,2021,Mar,5,Monday,1,Urban,Policyholder,>30,No,No,Apr,2,Friday,>30,616.3876271,1
+2388,All Perils,Male,50,Married,2,0,700,0,Sedan,Ford,>7,20000 to 29000,External,16,2021,Mar,5,Monday,1,Urban,Policyholder,>30,No,No,Apr,1,Tuesday,>30,7032.902226,1
+2424,All Perils,Female,32,Married,4,1,400,0,Sedan,Hyundai,6,20000 to 29000,External,15,2021,Mar,5,Tuesday,1,Urban,Policyholder,>30,No,No,Apr,3,Wednesday,>30,3693.588255,1
+2434,Liability,Male,51,Married,1,2 to 4,400,0,Sport,Chevrolet,>7,>69000,External,15,2021,Mar,5,Wednesday,1,Urban,Policyholder,>30,No,No,Apr,2,Monday,>30,65821.08793,1
+2437,All Perils,Male,28,Single,2,1,400,4 to 8,Sedan,Toyota,6,20000 to 29000,External,5,2021,Mar,5,Wednesday,2,Rural,Policyholder,>30,No,No,May,1,Friday,>30,1276.628244,1
+2459,Collision,Male,33,Married,2,2 to 4,400,0,Sedan,Honda,6,20000 to 29000,External,10,2021,Mar,5,Thursday,1,Rural,Policyholder,0,No,No,Apr,1,Monday,8 to 15,6619.550206,1
+2469,All Perils,Male,61,Married,4,>4,400,0,Sedan,Toyota,>7,30000 to 39000,External,15,2021,Mar,5,Thursday,1,Urban,Policyholder,>30,No,No,Apr,4,Thursday,>30,42756.95099,1
+2485,All Perils,Male,26,Married,4,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,6,2021,Apr,1,Friday,1,Rural,Policyholder,>30,No,No,Dec,3,Wednesday,>30,8064.128234,1
+2586,Collision,Male,32,Single,1,1,400,0,Sedan,Ford,6,20000 to 29000,External,7,2021,Apr,1,Monday,1,Urban,Policyholder,>30,No,No,Apr,1,Tuesday,>30,6207.716818,1
+2628,All Perils,Male,54,Married,4,1,400,0,Sedan,Toyota,>7,30000 to 39000,External,12,2021,Apr,1,Tuesday,1,Urban,Policyholder,>30,No,No,Apr,2,Friday,>30,16638.65177,1
+2646,All Perils,Male,32,Single,2,2 to 4,400,0,Sedan,Hyundai,5,20000 to 29000,External,4,2021,Apr,1,Wednesday,1,Urban,Policyholder,>30,No,No,Jun,1,Friday,>30,1033.502121,1
+2678,All Perils,Male,32,Married,2,0,400,0,Sedan,Ford,6,20000 to 29000,External,4,2021,Apr,2,Friday,1,Rural,Policyholder,>30,No,No,Apr,3,Thursday,>30,5895.903884,1
+2757,All Perils,Female,40,Divorced,2,0,400,0,Sedan,Chevrolet,7,20000 to 29000,External,12,2021,Apr,2,Monday,1,Urban,Policyholder,>30,No,No,Apr,2,Tuesday,>30,7889.394986,1
+2789,All Perils,Male,25,Single,4,1,400,0,Sedan,Kia,5,20000 to 29000,External,1,2021,Apr,2,Tuesday,3 to 4,Urban,Policyholder,>30,No,No,Apr,3,Tuesday,>30,4198.530342,1
+2790,All Perils,Male,38,Married,4,1,400,0,Sedan,Toyota,7,20000 to 29000,External,4,2021,Apr,2,Tuesday,1,Urban,Policyholder,>30,No,No,Apr,4,Friday,>30,9085.554503,1
+2806,All Perils,Male,44,Married,1,0,500,2 to 3,Sedan,Ford,7,20000 to 29000,External,15,2021,Apr,2,Tuesday,1,Urban,Policyholder,>30,No,No,Apr,3,Tuesday,>30,6711.748628,1
+2809,Collision,Male,55,Married,2,2 to 4,400,0,Sedan,Acura,>7,30000 to 39000,External,10,2021,Apr,2,Tuesday,1,Rural,Policyholder,>30,No,No,Apr,3,Wednesday,>30,76624.97088,1
+2821,Collision,Male,37,Married,2,0,400,0,Sedan,Chevrolet,>7,>69000,External,12,2021,Apr,2,Wednesday,1,Urban,Policyholder,>30,No,No,Apr,3,Friday,>30,64601.50353,1
+2822,All Perils,Female,30,Married,4,2 to 4,700,1,Sedan,Hyundai,7,20000 to 29000,External,11,2021,Apr,2,Wednesday,1,Urban,Policyholder,>30,No,No,Apr,4,Thursday,>30,5023.602639,1
+2852,Collision,Male,51,Married,1,0,400,0,Sport,Honda,7,>69000,External,8,2021,Apr,3,Thursday,1,Urban,Policyholder,>30,No,No,May,3,Thursday,>30,84577.13472,1
+2857,All Perils,Male,41,Married,2,0,500,2 to 3,Sedan,Hyundai,7,20000 to 29000,External,12,2021,Apr,2,Monday,2,Urban,Third Party,>30,No,No,Apr,3,Friday,>30,6744.663293,1
+2864,Collision,Male,33,Married,2,2 to 4,400,0,Sedan,Hyundai,5,30000 to 39000,External,8,2021,Apr,3,Friday,1,Urban,Policyholder,>30,No,No,Apr,3,Tuesday,>30,52273.79195,1
+2886,All Perils,Female,28,Single,1,2 to 4,400,0,Sedan,Hyundai,7,20000 to 29000,External,1,2021,Apr,3,Friday,1,Urban,Policyholder,>30,No,No,Apr,3,Monday,>30,3463.427287,1
+2910,All Perils,Female,28,Single,1,2 to 4,400,0,Sedan,Toyota,7,20000 to 29000,External,3,2021,Apr,3,Saturday,1,Rural,Policyholder,>30,No,No,Jun,4,Thursday,>30,865.5416605,1
+2923,Collision,Male,34,Single,4,2 to 4,400,0,Sedan,Ford,6,20000 to 29000,External,6,2021,Apr,3,Saturday,1,Rural,Policyholder,>30,No,No,May,1,Monday,>30,1291.754814,1
+2939,Collision,Male,48,Married,4,1,400,0,Sedan,Honda,>7,20000 to 29000,External,8,2021,Apr,3,Sunday,1,Urban,Policyholder,>30,No,No,Apr,3,Wednesday,>30,1649.872728,1
+2963,All Perils,Male,37,Married,1,2 to 4,400,0,Sedan,Honda,>7,30000 to 39000,External,16,2021,Apr,3,Monday,1,Urban,Policyholder,>30,No,No,Apr,4,Thursday,>30,83591.43319,1
+2968,Liability,Male,17,Single,4,>4,400,0,Sport,Honda,0,>69000,External,11,2021,Apr,3,Monday,1,Urban,Policyholder,>30,No,No,Apr,3,Tuesday,>30,62822.32241,1
+3000,All Perils,Male,32,Married,4,1,400,0,Sedan,Hyundai,6,20000 to 29000,External,2,2021,Apr,3,Wednesday,1,Urban,Policyholder,>30,No,No,May,2,Thursday,>30,8615.867691,1
+3011,Collision,Male,37,Married,4,>4,400,0,Sedan,Hyundai,7,20000 to 29000,External,10,2021,Apr,3,Wednesday,1,Urban,Policyholder,>30,No,No,May,2,Monday,>30,37905.56242,1
+3033,All Perils,Male,29,Married,1,>4,400,0,Sedan,Chevrolet,7,30000 to 39000,External,10,2021,Apr,4,Thursday,1,Urban,Policyholder,>30,No,No,Jul,1,Friday,>30,50429.70252,1
+3042,All Perils,Male,20,Single,4,2 to 4,400,0,Sedan,Honda,0,>69000,External,9,2021,Apr,4,Friday,1,Urban,Policyholder,>30,No,No,Apr,4,Tuesday,>30,63282.71437,1
+3054,All Perils,Male,25,Single,4,0,400,0,Sedan,Hyundai,3,20000 to 29000,External,6,2021,Apr,4,Friday,1,Urban,Policyholder,>30,No,No,Jun,3,Friday,>30,1815.569212,1
+3079,Collision,Male,34,Married,2,1,400,0,Sedan,Toyota,7,20000 to 29000,External,2,2021,Apr,4,Saturday,1,Urban,Policyholder,>30,No,No,May,1,Friday,>30,8882.260866,1
+3096,Collision,Female,27,Married,1,2 to 4,400,0,Sedan,Hyundai,7,20000 to 29000,External,9,2021,Apr,4,Sunday,1,Urban,Policyholder,>30,No,No,May,1,Tuesday,>30,7749.746844,1
+3118,All Perils,Male,51,Married,4,2 to 4,400,0,Sedan,Acura,7,20000 to 29000,External,7,2021,Apr,4,Monday,1,Urban,Policyholder,>30,No,No,May,2,Tuesday,>30,2555.000689,1
+3130,All Perils,Male,18,Single,3,0,400,4 to 8,Sedan,Honda,0,>69000,External,8,2021,Apr,4,Tuesday,2,Urban,Policyholder,>30,No,No,May,1,Monday,>30,51716.57077,1
+3132,Liability,Male,36,Married,3,2 to 4,700,0,Sport,Toyota,7,30000 to 39000,External,6,2021,Apr,4,Tuesday,1,Urban,Policyholder,>30,No,No,Apr,4,Tuesday,>30,10419.80705,1
+3141,Collision,Male,36,Married,4,0,400,0,Sedan,Mazda,7,20000 to 29000,External,1,2021,Apr,4,Tuesday,1,Rural,Policyholder,>30,No,No,May,1,Thursday,>30,3480.681355,1
+3143,All Perils,Female,35,Single,3,2 to 4,400,0,Sedan,Toyota,7,20000 to 29000,External,10,2021,Apr,4,Tuesday,1,Urban,Policyholder,>30,No,No,May,3,Tuesday,>30,3694.038659,1
+3173,All Perils,Male,16,Single,1,0,400,0,Sedan,Honda,0,>69000,External,3,2021,Apr,4,Wednesday,1,Urban,Policyholder,>30,No,No,May,1,Tuesday,>30,56479.09066,1
+3187,All Perils,Male,40,Married,2,1,400,0,Sedan,Hyundai,5,>69000,External,1,2021,Apr,4,Wednesday,1,Urban,Policyholder,>30,No,No,May,1,Tuesday,>30,67031.36799,1
+3192,Collision,Male,45,Single,4,2 to 4,400,0,Sedan,Toyota,>7,40000 to 59000,External,16,2021,Apr,5,Thursday,1,Urban,Policyholder,>30,No,No,Apr,5,Thursday,>30,27049.20926,1
+3193,Collision,Male,63,Married,3,1,400,4 to 8,Sedan,Toyota,>7,30000 to 39000,External,2,2021,Apr,5,Thursday,2,Urban,Policyholder,>30,No,No,Apr,5,Thursday,>30,22193.39799,1
+3210,All Perils,Male,49,Married,2,1,400,0,Sedan,Hyundai,6,20000 to 29000,External,2,2021,Apr,5,Friday,1,Urban,Policyholder,>30,No,No,May,1,Wednesday,>30,2633.555243,1
+3251,All Perils,Male,18,Single,4,0,400,0,Sedan,Honda,0,>69000,External,1,2021,May,1,Sunday,1,Urban,Policyholder,>30,No,No,May,3,Tuesday,>30,80176.99895,1
+3259,All Perils,Male,19,Single,2,0,400,0,Sedan,Honda,0,>69000,External,1,2021,May,1,Sunday,1,Urban,Policyholder,>30,No,No,May,1,Tuesday,>30,50943.27551,1
+3265,Collision,Male,40,Married,1,0,500,2 to 3,Sedan,Mazda,7,30000 to 39000,External,14,2021,May,3,Friday,1,Urban,Third Party,>30,No,No,May,4,Monday,>30,7235.020108,1
+3276,Collision,Male,31,Married,4,>4,400,0,Sedan,Chevrolet,6,20000 to 29000,External,2,2021,May,1,Tuesday,1,Urban,Policyholder,>30,No,No,May,2,Wednesday,>30,12992.49205,1
+3298,Collision,Male,46,Married,1,1,400,4 to 8,Sedan,Toyota,7,20000 to 29000,External,14,2021,May,1,Tuesday,2,Urban,Policyholder,>30,No,No,May,1,Thursday,>30,3139.651025,1
+3407,Collision,Male,39,Single,1,0,400,0,Sedan,Hyundai,7,<20000,External,5,2021,May,1,Friday,1,Urban,Policyholder,>30,No,No,May,1,Friday,>30,4768.230596,1
+3408,Collision,Male,51,Married,1,0,400,0,Sedan,Toyota,7,20000 to 29000,External,11,2021,May,1,Friday,1,Urban,Policyholder,>30,No,No,Jun,2,Thursday,>30,6904.191423,1
+3422,All Perils,Male,33,Single,2,1,400,0,Sedan,Hyundai,5,20000 to 29000,External,2,2021,May,1,Friday,1,Urban,Policyholder,>30,No,No,May,3,Monday,>30,5016.427044,1
+3423,All Perils,Male,30,Divorced,1,2 to 4,400,0,Sedan,Honda,6,30000 to 39000,External,14,2021,May,1,Friday,1,Urban,Policyholder,>30,No,No,May,2,Wednesday,>30,61508.90773,1
+3444,Collision,Male,26,Single,3,0,400,0,Sedan,Mazda,7,20000 to 29000,External,13,2021,May,2,Saturday,1,Urban,Policyholder,>30,No,No,May,2,Monday,>30,8834.026058,1
+3457,Collision,Male,29,Single,1,1,400,0,Sedan,Mazda,7,20000 to 29000,External,4,2021,May,2,Sunday,1,Rural,Policyholder,>30,No,No,May,4,Tuesday,>30,8146.666023,1
+3463,All Perils,Male,28,Married,4,2 to 4,400,0,Sedan,Mazda,7,30000 to 39000,External,9,2021,May,2,Sunday,1,Urban,Policyholder,>30,No,No,May,2,Friday,>30,28574.49679,1
+3493,All Perils,Male,48,Married,3,0,400,0,Sedan,Honda,>7,<20000,External,16,2021,May,2,Monday,1,Urban,Policyholder,>30,No,No,May,3,Monday,>30,6557.842309,1
+3502,All Perils,Male,35,Married,4,2 to 4,400,0,Sedan,Acura,7,>69000,External,2,2021,May,2,Monday,1,Rural,Policyholder,>30,No,No,May,2,Wednesday,>30,51335.82906,1
+3520,Collision,Male,33,Married,4,0,500,2 to 3,Sport,Mazda,7,>69000,External,11,2021,May,3,Friday,1,Urban,Third Party,>30,No,No,May,4,Wednesday,>30,50653.91045,1
+3550,All Perils,Male,37,Married,1,2 to 4,400,1,Sedan,Hyundai,7,20000 to 29000,External,16,2021,May,2,Tuesday,2,Urban,Policyholder,>30,No,No,Jun,3,Friday,>30,3409.252394,1
+3556,All Perils,Male,48,Married,1,0,400,0,Sedan,Toyota,7,20000 to 29000,External,5,2021,May,2,Tuesday,1,Urban,Policyholder,>30,No,No,May,3,Tuesday,>30,7847.840532,1
+3557,All Perils,Female,41,Single,2,2 to 4,400,0,Sedan,Toyota,7,<20000,External,15,2021,May,2,Tuesday,1,Rural,Policyholder,>30,No,No,May,3,Monday,>30,5522.338034,1
+3580,All Perils,Male,38,Married,1,1,400,0,Sedan,Mazda,7,20000 to 29000,External,5,2021,May,2,Wednesday,1,Urban,Policyholder,>30,No,No,May,2,Thursday,>30,960.1528728,1
+3586,All Perils,Male,60,Married,1,0,400,0,Utility,Acura,>7,>69000,External,7,2021,May,2,Wednesday,1,Urban,Policyholder,>30,No,No,May,3,Monday,>30,98988.39793,1
+3589,All Perils,Male,27,Single,4,0,400,0,Sedan,Hyundai,6,20000 to 29000,External,16,2021,May,2,Thursday,1,Rural,Policyholder,>30,No,No,Jun,3,Tuesday,>30,4448.006727,1
+3599,All Perils,Male,39,Married,3,2 to 4,400,0,Sedan,Toyota,6,<20000,External,12,2021,May,2,Thursday,1,Urban,Policyholder,0,No,No,May,4,Tuesday,15 to 30,584.3931693,1
+3614,All Perils,Male,50,Married,1,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,5,2021,May,2,Friday,1,Urban,Policyholder,>30,No,No,May,2,Friday,>30,3902.104833,1
+3676,Collision,Male,27,Married,4,2 to 4,400,4 to 8,Sedan,Hyundai,6,20000 to 29000,External,16,2021,May,3,Sunday,2,Urban,Policyholder,>30,No,No,May,3,Monday,>30,6864.350133,1
+3684,All Perils,Male,50,Married,1,0,400,0,Sedan,Saab,7,30000 to 39000,External,4,2021,May,3,Sunday,1,Urban,Policyholder,>30,No,No,May,4,Wednesday,>30,7250.034243,1
+3694,All Perils,Male,25,Single,2,0,400,0,Sedan,Hyundai,6,20000 to 29000,External,3,2021,May,3,Sunday,1,Urban,Policyholder,>30,No,No,Jun,1,Friday,>30,1908.673469,1
+3725,All Perils,Male,30,Single,3,0,400,0,Sedan,Chevrolet,6,20000 to 29000,External,14,2021,May,3,Monday,1,Urban,Policyholder,>30,No,No,May,4,Tuesday,>30,9185.71198,1
+3726,All Perils,Male,66,Single,4,1,400,0,Sedan,Hyundai,>7,<20000,External,8,2021,May,3,Monday,1,Urban,Policyholder,>30,No,No,May,3,Tuesday,>30,5471.586665,1
+3773,Collision,Male,42,Married,1,2 to 4,400,0,Sedan,Honda,>7,40000 to 59000,External,10,2021,May,3,Wednesday,3 to 4,Urban,Policyholder,>30,No,No,Jun,5,Tuesday,>30,78989.11144,1
+3786,All Perils,Male,67,Married,2,1,400,0,Sedan,Mazda,>7,30000 to 39000,External,4,2021,May,3,Wednesday,1,Rural,Policyholder,>30,No,No,Oct,1,Tuesday,>30,55087.39834,1
+3801,Collision,Male,26,Single,1,2 to 4,400,0,Sedan,Chevrolet,6,20000 to 29000,External,1,2021,May,3,Thursday,1,Urban,Policyholder,>30,No,No,May,3,Friday,>30,3102.546862,1
+3834,All Perils,Male,66,Single,1,1,400,0,Sedan,Hyundai,>7,20000 to 29000,External,2,2021,May,4,Saturday,1,Urban,Policyholder,>30,No,No,May,4,Thursday,>30,5675.643265,1
+3857,All Perils,Male,17,Single,1,2 to 4,400,0,Sedan,Honda,0,>69000,External,3,2021,May,4,Saturday,1,Urban,Policyholder,>30,No,No,May,4,Tuesday,>30,65937.52102,1
+3885,All Perils,Male,65,Married,2,1,400,0,Sedan,Toyota,>7,20000 to 29000,External,15,2021,May,4,Monday,1,Urban,Policyholder,>30,No,No,May,4,Tuesday,>30,1090.172834,1
+3927,Collision,Male,32,Single,1,2 to 4,400,0,Sedan,Mazda,6,20000 to 29000,External,2,2021,May,4,Monday,1,Urban,Policyholder,>30,No,No,May,4,Tuesday,>30,2922.357319,1
+3940,Liability,Male,45,Married,1,2 to 4,400,0,Sport,Acura,7,40000 to 59000,External,8,2021,May,4,Tuesday,1,Urban,Policyholder,>30,No,No,May,4,Tuesday,>30,55591.40571,1
+3979,Collision,Male,26,Married,3,0,500,2 to 3,Sedan,Hyundai,7,>69000,External,3,2021,May,1,Friday,1,Urban,Third Party,>30,No,No,May,2,Monday,>30,99266.01895,1
+3995,All Perils,Female,22,Single,2,1,400,0,Sedan,Toyota,5,<20000,External,6,2021,May,4,Thursday,1,Urban,Policyholder,>30,No,No,Jun,1,Monday,>30,4191.316942,1
+4030,All Perils,Male,40,Married,1,2 to 4,500,2 to 3,Sedan,Hyundai,7,30000 to 39000,External,12,2021,May,4,Friday,1,Urban,Policyholder,>30,No,No,Jun,1,Monday,>30,59446.60799,1
+4088,All Perils,Male,35,Married,3,0,400,0,Sedan,Honda,6,20000 to 29000,External,9,2021,May,5,Sunday,1,Rural,Policyholder,>30,No,No,May,5,Tuesday,>30,5156.835027,1
+4089,All Perils,Male,34,Single,4,1,400,0,Sedan,Toyota,6,20000 to 29000,External,10,2021,May,5,Sunday,1,Urban,Policyholder,>30,No,No,Jun,1,Monday,>30,8305.684419,1
+4095,All Perils,Male,37,Married,4,2 to 4,400,0,Utility,Chevrolet,7,>69000,External,3,2021,May,5,Monday,1,Urban,Policyholder,>30,No,No,Jun,1,Wednesday,>30,69127.72128,1
+4103,Collision,Male,39,Single,4,2 to 4,400,0,Sedan,Chevrolet,7,30000 to 39000,External,12,2021,May,5,Monday,1,Urban,Policyholder,>30,No,No,Jun,1,Thursday,>30,26583.65067,1
+4146,Collision,Male,43,Married,3,1,400,0,Sedan,Acura,7,40000 to 59000,External,5,2021,Jun,1,Wednesday,1,Urban,Policyholder,>30,No,No,Jun,2,Friday,>30,38548.23536,1
+4165,Collision,Male,67,Married,3,2 to 4,400,0,Sedan,Ford,7,40000 to 59000,External,8,2021,Jun,1,Wednesday,1,Rural,Policyholder,>30,No,No,Jun,1,Thursday,>30,26408.09212,1
+4173,All Perils,Male,37,Married,2,2 to 4,400,0,Sedan,Toyota,6,>69000,External,5,2021,Jun,1,Wednesday,1,Urban,Policyholder,>30,No,No,Jun,2,Thursday,>30,57426.14892,1
+4176,All Perils,Male,32,Single,4,0,400,0,Sedan,Mazda,7,20000 to 29000,External,16,2021,Jun,1,Thursday,1,Urban,Policyholder,>30,No,No,Jun,1,Friday,>30,5496.991448,1
+4203,Collision,Male,53,Married,1,2 to 4,400,0,Sedan,Mazda,7,>69000,External,15,2021,Jun,1,Friday,1,Urban,Policyholder,>30,No,No,Jul,1,Monday,>30,69505.82578,1
+4223,All Perils,Male,25,Single,4,0,400,0,Sedan,Honda,0,>69000,External,5,2021,Jun,1,Friday,1,Urban,Policyholder,>30,No,No,Jun,5,Wednesday,>30,87808.1069,1
+4267,Liability,Male,26,Single,2,2 to 4,400,0,Sport,Mazda,6,30000 to 39000,External,8,2021,Jun,1,Sunday,1,Urban,Policyholder,>30,No,No,Jun,3,Tuesday,>30,53613.85824,1
+4309,All Perils,Male,43,Married,1,1,400,0,Sedan,Hyundai,7,<20000,External,11,2021,Jun,1,Monday,1,Urban,Policyholder,>30,No,No,Jun,2,Monday,>30,1100.788244,1
+4335,All Perils,Male,40,Married,3,1,400,0,Sedan,Toyota,7,20000 to 29000,External,14,2021,Jun,1,Monday,1,Urban,Policyholder,>30,No,No,Jun,2,Tuesday,>30,1211.623673,1
+4338,All Perils,Male,61,Married,1,1,400,0,Sedan,Hyundai,>7,<20000,External,3,2021,Jun,2,Tuesday,1,Urban,Policyholder,>30,No,No,Jun,2,Wednesday,>30,9688.488701,1
+4356,Collision,Male,30,Married,3,2 to 4,400,0,Sedan,Honda,7,30000 to 39000,External,6,2021,Jun,2,Tuesday,1,Urban,Policyholder,>30,No,No,Jun,4,Wednesday,>30,12019.24413,1
+4361,All Perils,Male,63,Married,2,0,400,0,Sedan,Toyota,7,20000 to 29000,External,7,2021,Jun,2,Wednesday,1,Rural,Policyholder,>30,No,No,Jun,2,Monday,>30,4392.876957,1
+4376,All Perils,Female,45,Married,1,1,400,0,Sedan,Hyundai,>7,20000 to 29000,External,7,2021,Jun,2,Wednesday,1,Urban,Policyholder,>30,No,No,Jul,1,Tuesday,>30,3161.763273,1
+4396,Collision,Male,34,Single,4,2 to 4,400,0,Sedan,Hyundai,6,20000 to 29000,External,12,2021,Jun,2,Friday,1,Urban,Policyholder,>30,No,No,Jun,3,Tuesday,>30,5377.557038,1
+4398,All Perils,Male,35,Single,1,1,400,0,Sedan,Toyota,6,20000 to 29000,External,7,2021,Jun,2,Friday,1,Urban,Policyholder,>30,No,No,Jun,3,Monday,>30,8531.179538,1
+4463,Collision,Male,54,Married,1,1,400,0,Sedan,Toyota,7,20000 to 29000,External,8,2021,Jun,2,Monday,1,Urban,Policyholder,>30,No,No,Jun,4,Monday,>30,1444.49652,1
+4469,All Perils,Male,64,Married,1,1,400,0,Sedan,VW,>7,>69000,External,7,2021,Jun,2,Monday,1,Urban,Policyholder,>30,No,No,Jun,5,Wednesday,>30,50653.91045,1
+4542,Collision,Male,55,Married,3,1,400,0,Sedan,Honda,7,30000 to 39000,External,6,2021,Jun,3,Friday,1,Urban,Policyholder,>30,No,No,Jun,3,Monday,>30,15855.20637,1
+4546,All Perils,Male,20,Single,2,>4,400,0,Sedan,Honda,4,20000 to 29000,External,6,2021,Jun,3,Friday,1,Rural,Policyholder,>30,No,No,Jun,4,Friday,>30,13362.20062,1
+4562,Collision,Male,35,Married,3,0,400,0,Sport,Mazda,3,>69000,External,11,2021,Jun,3,Saturday,1,Urban,Policyholder,>30,No,No,Jun,3,Monday,>30,50934.40722,1
+4590,All Perils,Male,40,Married,3,2 to 4,400,0,Sedan,Hyundai,>7,20000 to 29000,External,9,2021,Jun,3,Monday,1,Urban,Policyholder,>30,No,No,Jul,1,Monday,>30,4810.881831,1
+4597,All Perils,Male,44,Married,3,2 to 4,400,0,Sedan,Acura,6,20000 to 29000,External,14,2021,Jun,3,Monday,1,Urban,Policyholder,>30,No,No,Jun,4,Monday,>30,4210.533726,1
+4650,Collision,Female,34,Married,4,0,400,0,Sedan,Toyota,7,20000 to 29000,External,16,2021,Jun,4,Wednesday,1,Urban,Policyholder,>30,No,No,Jun,4,Monday,>30,9376.904295,1
+4656,Collision,Male,16,Single,4,0,400,0,Sedan,Honda,0,>69000,External,15,2021,Jun,4,Wednesday,1,Urban,Policyholder,>30,No,No,Jun,4,Friday,>30,50811.16693,1
+4661,Collision,Male,26,Single,1,0,400,0,Sedan,Toyota,5,20000 to 29000,External,9,2021,Jun,4,Thursday,1,Urban,Policyholder,>30,No,No,Jul,1,Monday,>30,6029.659299,1
+4667,All Perils,Male,39,Married,4,1,400,0,Sedan,Hyundai,7,20000 to 29000,External,10,2021,Jun,4,Thursday,1,Urban,Policyholder,>30,No,No,Jun,4,Monday,>30,2794.041401,1
+4717,Collision,Female,40,Married,2,2 to 4,400,0,Sport,Honda,6,>69000,External,12,2021,Jun,4,Sunday,1,Urban,Policyholder,>30,No,No,Oct,4,Tuesday,>30,87808.1069,1
+4727,All Perils,Male,41,Married,4,0,400,0,Sedan,Toyota,6,<20000,External,13,2021,Jun,4,Monday,1,Urban,Policyholder,>30,No,No,Jul,3,Thursday,>30,1632.527,1
+4776,Collision,Female,49,Married,3,0,400,0,Sedan,Mazda,>7,20000 to 29000,External,2,2021,Jun,5,Tuesday,1,Urban,Policyholder,>30,No,No,Jun,5,Tuesday,>30,2002.815587,1
+4795,Collision,Male,32,Married,4,2 to 4,500,2 to 3,Sedan,Chevrolet,6,20000 to 29000,External,9,2021,Dec,4,Friday,1,Urban,Third Party,>30,No,No,Dec,5,Thursday,>30,9420.044042,1
+4818,Collision,Male,50,Married,1,1,400,0,Sedan,Chevrolet,>7,30000 to 39000,External,1,2021,Jul,1,Saturday,1,Urban,Policyholder,>30,No,No,Jul,2,Friday,>30,82762.9469,1
+4832,All Perils,Male,40,Married,1,0,400,0,Sedan,Toyota,7,>69000,External,3,2021,Jul,1,Saturday,1,Urban,Policyholder,>30,No,No,Jul,3,Thursday,>30,55894.14284,1
+4846,All Perils,Male,43,Married,2,0,500,2 to 3,Sedan,Ford,>7,<20000,External,16,2021,Jul,1,Sunday,1,Urban,Policyholder,>30,No,No,Jul,4,Wednesday,>30,699.2198306,1
+4899,All Perils,Male,29,Married,2,0,400,0,Sedan,Honda,6,<20000,External,16,2021,Jul,1,Tuesday,1,Urban,Policyholder,>30,No,No,Nov,3,Thursday,>30,4905.339641,1
+4969,Collision,Male,39,Married,3,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,6,2021,Jul,2,Friday,1,Urban,Policyholder,>30,Yes,No,Jul,2,Tuesday,>30,3966.086511,1
+5019,Collision,Male,46,Married,1,0,400,0,Sport,Honda,7,>69000,External,9,2021,Jul,2,Sunday,1,Urban,Policyholder,>30,No,No,Oct,2,Monday,>30,84964.75358,1
+5050,Collision,Male,40,Married,4,1,500,2 to 3,Sedan,Toyota,7,20000 to 29000,External,3,2021,Nov,2,Saturday,1,Urban,Third Party,>30,No,No,Nov,3,Tuesday,>30,9482.474736,1
+5061,All Perils,Male,20,Single,4,2 to 4,400,0,Sedan,Honda,0,>69000,External,7,2021,Jul,2,Tuesday,1,Urban,Policyholder,>30,No,No,Aug,2,Tuesday,>30,65677.76153,1
+5080,Collision,Male,48,Married,4,0,400,0,Sedan,Toyota,7,20000 to 29000,External,6,2021,Jul,3,Thursday,1,Rural,Policyholder,>30,No,No,Jul,3,Monday,>30,7264.902381,1
+5084,All Perils,Male,31,Single,3,2 to 4,400,0,Sedan,Ram,5,20000 to 29000,External,10,2021,Jul,3,Thursday,1,Urban,Policyholder,>30,No,No,Sep,2,Thursday,>30,1222.099329,1
+5093,All Perils,Male,52,Married,1,0,400,0,Sedan,Hyundai,6,<20000,External,10,2021,Jul,3,Friday,1,Rural,Policyholder,>30,No,No,Jul,4,Friday,>30,1454.058812,1
+5102,Collision,Male,26,Single,3,2 to 4,400,0,Sedan,Mazda,6,20000 to 29000,External,8,2021,Jul,3,Friday,1,Urban,Policyholder,>30,No,No,Jul,3,Friday,>30,1807.048915,1
+5113,All Perils,Female,27,Single,4,1,400,0,Sedan,Toyota,6,<20000,External,13,2021,Jul,3,Saturday,1,Urban,Policyholder,>30,No,No,Jul,3,Monday,>30,5478.18095,1
+5167,Collision,Male,61,Married,1,0,400,4 to 8,Sedan,Chevrolet,>7,30000 to 39000,External,10,2021,Jul,3,Monday,3 to 4,Urban,Policyholder,>30,No,No,Aug,1,Wednesday,>30,4539.713434,1
+5178,All Perils,Male,37,Married,2,0,700,0,Sedan,Toyota,7,<20000,External,13,2021,Jul,3,Tuesday,1,Urban,Policyholder,>30,No,No,Mar,4,Monday,>30,6193.206104,1
+5181,All Perils,Male,28,Married,2,>4,400,0,Sedan,Hyundai,7,30000 to 39000,External,1,2021,Jul,3,Tuesday,1,Urban,Policyholder,>30,No,No,Aug,1,Tuesday,>30,94228.69449,1
+5220,All Perils,Male,36,Married,2,0,400,0,Utility,Acura,>7,>69000,External,1,2021,Jul,3,Wednesday,1,Urban,Policyholder,>30,No,No,Aug,1,Tuesday,>30,62457.76232,1
+5229,All Perils,Male,33,Single,3,0,400,0,Sedan,Toyota,6,20000 to 29000,External,12,2021,Jul,4,Thursday,1,Rural,Policyholder,>30,No,No,Aug,1,Monday,>30,3497.33513,1
+5274,All Perils,Male,55,Married,1,2 to 4,400,0,Sedan,Acura,>7,30000 to 39000,External,1,2021,Jul,4,Saturday,1,Urban,Policyholder,>30,No,No,Aug,4,Tuesday,>30,68328.68813,1
+5290,All Perils,Male,51,Married,2,0,400,0,Sedan,Acura,>7,20000 to 29000,External,14,2021,Jul,4,Sunday,3 to 4,Urban,Policyholder,>30,No,No,Jul,5,Friday,>30,6552.179432,1
+5295,Collision,Male,19,Married,4,0,400,0,Sport,Honda,2,>69000,External,13,2021,Jul,4,Sunday,1,Urban,Policyholder,>30,No,No,Jul,5,Friday,>30,67101.08283,1
+5303,All Perils,Male,44,Single,4,1,400,0,Sedan,Honda,7,30000 to 39000,External,11,2021,Jul,4,Monday,1,Urban,Policyholder,>30,No,No,Aug,1,Tuesday,>30,20290.0755,1
+5305,All Perils,Male,42,Married,4,0,500,2 to 3,Sedan,Chevrolet,7,20000 to 29000,External,1,2021,Jan,5,Friday,1,Rural,Third Party,>30,No,No,Jan,5,Monday,>30,1603.809268,1
+5356,Collision,Female,43,Married,2,1,400,2 to 3,Sport,Honda,4,>69000,External,9,2021,Jan,1,Thursday,2,Urban,Third Party,>30,No,No,Jan,2,Thursday,>30,64716.40829,1
+5361,All Perils,Male,32,Married,3,0,400,0,Sedan,Hyundai,7,30000 to 39000,External,10,2021,Jul,5,Friday,1,Urban,Policyholder,>30,No,No,Aug,3,Thursday,>30,6876.408917,1
+5363,Collision,Female,54,Married,4,2 to 4,400,0,Sedan,Honda,5,20000 to 29000,External,4,2021,Jul,5,Friday,1,Urban,Policyholder,>30,No,No,Aug,1,Wednesday,>30,8459.701235,1
+5412,All Perils,Male,34,Single,2,1,400,0,Sedan,Honda,7,20000 to 29000,External,15,2021,Aug,1,Monday,1,Urban,Policyholder,>30,No,No,Aug,1,Wednesday,>30,6164.865905,1
+5435,All Perils,Male,48,Single,4,2 to 4,400,0,Sedan,Hyundai,7,<20000,External,1,2021,Aug,1,Monday,1,Rural,Policyholder,>30,No,No,Aug,1,Monday,>30,4943.477594,1
+5451,All Perils,Male,28,Married,2,1,400,0,Utility,Acura,7,>69000,External,2,2021,Aug,1,Monday,1,Urban,Policyholder,>30,No,No,Aug,5,Wednesday,>30,52821.21661,1
+5458,Collision,Male,26,Single,3,0,400,2 to 3,Sedan,Saab,5,30000 to 39000,External,4,2021,Aug,1,Tuesday,1,Urban,Policyholder,>30,No,No,Aug,1,Friday,>30,5408.252398,1
+5474,All Perils,Male,37,Married,2,1,400,0,Sedan,Hyundai,5,20000 to 29000,External,4,2021,Aug,1,Tuesday,1,Rural,Policyholder,>30,No,No,Aug,2,Thursday,>30,2030.40158,1
+5479,Collision,Male,27,Single,2,2 to 4,400,0,Sedan,VW,6,40000 to 59000,External,7,2021,Aug,1,Wednesday,1,Urban,Policyholder,>30,No,No,Aug,2,Monday,>30,54863.31039,1
+5495,Collision,Male,38,Married,1,1,400,0,Sedan,Toyota,7,20000 to 29000,External,14,2021,Aug,1,Thursday,3 to 4,Urban,Policyholder,>30,No,No,Aug,2,Monday,>30,6223.272058,1
+5498,All Perils,Male,40,Married,4,0,400,0,Sedan,Hyundai,5,20000 to 29000,External,8,2021,Aug,1,Thursday,1,Urban,Policyholder,>30,No,No,Sep,1,Thursday,>30,2021.028928,1
+5506,Collision,Female,53,Married,1,2 to 4,400,0,Sedan,Mazda,7,20000 to 29000,External,4,2021,Aug,1,Friday,1,Urban,Policyholder,>30,No,No,Aug,3,Friday,>30,7999.662264,1
+5513,Collision,Male,47,Single,3,0,400,0,Utility,Chevrolet,>7,>69000,External,15,2021,Aug,1,Friday,1,Rural,Policyholder,>30,No,No,Aug,1,Friday,>30,84964.75358,1
+5519,All Perils,Male,26,Married,3,0,700,0,Sedan,Toyota,7,20000 to 29000,External,11,2021,Aug,1,Friday,1,Urban,Policyholder,>30,No,No,Sep,1,Thursday,>30,3467.164852,1
+5540,All Perils,Male,38,Married,1,2 to 4,400,0,Utility,Chevrolet,7,>69000,External,13,2021,Aug,1,Friday,1,Urban,Policyholder,>30,No,No,Aug,2,Monday,>30,78329.30949,1
+5549,All Perils,Female,35,Married,4,1,400,0,Sedan,Hyundai,5,<20000,External,7,2021,Aug,1,Saturday,1,Urban,Policyholder,>30,No,No,Aug,2,Thursday,>30,3830.09253,1
+5570,All Perils,Male,27,Single,1,0,400,0,Sedan,Chevrolet,7,>69000,External,9,2021,Aug,2,Sunday,1,Urban,Policyholder,>30,No,No,Aug,2,Thursday,>30,89688.90592,1
+5588,Collision,Male,34,Married,2,1,400,0,Sedan,Acura,7,>69000,External,4,2021,Aug,2,Tuesday,1,Urban,Policyholder,>30,No,No,Aug,3,Friday,>30,61132.4291,1
+5639,All Perils,Male,31,Married,2,0,400,0,Sedan,Toyota,7,20000 to 29000,External,9,2021,Aug,2,Thursday,1,Urban,Policyholder,>30,No,No,Aug,4,Thursday,>30,4236.907283,1
+5675,Collision,Male,35,Married,1,2 to 4,400,0,Sedan,Acura,7,30000 to 39000,External,5,2021,Aug,2,Saturday,1,Rural,Policyholder,>30,No,No,Aug,3,Thursday,>30,94228.69449,1
+5682,Collision,Male,46,Married,2,0,400,0,Sedan,Mazda,7,30000 to 39000,External,13,2021,Aug,2,Saturday,1,Rural,Policyholder,>30,No,No,Aug,3,Wednesday,>30,1617.101911,1
+5685,All Perils,Male,32,Single,3,>4,400,0,Sedan,Toyota,6,20000 to 29000,External,4,2021,Aug,3,Sunday,1,Urban,Policyholder,>30,No,No,Aug,3,Friday,>30,38225.31632,1
+5689,Collision,Male,35,Married,3,1,400,0,Sedan,Toyota,6,20000 to 29000,External,13,2021,Aug,3,Sunday,1,Rural,Policyholder,>30,No,No,Aug,3,Thursday,>30,7607.159355,1
+5692,Collision,Male,45,Married,1,0,400,4 to 8,Sedan,Chevrolet,7,30000 to 39000,External,13,2021,Aug,3,Sunday,2,Urban,Policyholder,>30,No,No,Oct,3,Monday,>30,4776.056023,1
+5698,Collision,Male,35,Married,1,2 to 4,400,0,Sedan,Toyota,5,30000 to 39000,External,5,2021,Aug,3,Sunday,1,Urban,Policyholder,>30,No,No,Aug,3,Friday,>30,69841.89948,1
+5699,All Perils,Male,22,Single,4,1,400,0,Sedan,Hyundai,5,20000 to 29000,External,14,2021,Aug,3,Monday,1,Urban,Policyholder,>30,No,No,Aug,3,Wednesday,>30,2584.498396,1
+5728,All Perils,Male,44,Married,3,1,400,0,Sedan,Toyota,7,20000 to 29000,External,10,2021,Aug,3,Tuesday,1,Urban,Policyholder,>30,No,No,Aug,3,Wednesday,>30,4309.805065,1
+5744,All Perils,Female,32,Married,3,0,400,0,Sedan,Mazda,4,20000 to 29000,External,1,2021,Aug,3,Tuesday,1,Urban,Policyholder,>30,No,No,Aug,3,Wednesday,>30,4074.487934,1
+5762,All Perils,Male,35,Married,4,2 to 4,400,0,Sedan,Hyundai,6,20000 to 29000,External,9,2021,Aug,3,Wednesday,1,Urban,Policyholder,>30,No,No,Aug,5,Wednesday,>30,6484.638339,1
+5767,All Perils,Male,36,Married,3,0,700,0,Sedan,Acura,7,30000 to 39000,External,4,2021,Aug,3,Wednesday,1,Urban,Policyholder,>30,No,No,Aug,4,Monday,>30,2511.759987,1
+5776,All Perils,Male,32,Married,2,1,400,4 to 8,Sedan,Hyundai,7,<20000,External,5,2021,Aug,3,Thursday,2,Urban,Policyholder,>30,No,No,Aug,3,Friday,>30,2948.921781,1
+5778,Collision,Male,32,Married,4,0,400,0,Sedan,Acura,6,>69000,External,1,2021,Aug,3,Thursday,1,Rural,Policyholder,>30,No,No,Aug,3,Friday,>30,89688.90592,1
+5781,All Perils,Male,31,Single,1,0,400,0,Sedan,Toyota,5,20000 to 29000,External,9,2021,Aug,3,Thursday,1,Urban,Policyholder,>30,No,No,Aug,3,Friday,>30,8673.201779,1
+5799,Liability,Male,24,Single,2,2 to 4,400,0,Sport,Acura,6,30000 to 39000,External,15,2021,Aug,3,Friday,1,Urban,Policyholder,>30,No,No,Sep,1,Monday,>30,60355.76165,1
+5839,Collision,Male,39,Single,2,2 to 4,400,4 to 8,Sedan,Saab,7,30000 to 39000,External,16,2021,Aug,4,Sunday,2,Urban,Policyholder,>30,No,No,Aug,4,Wednesday,>30,71010.05451,1
+5857,All Perils,Male,30,Married,1,2 to 4,400,0,Sedan,Mazda,6,<20000,External,7,2021,Aug,4,Monday,1,Urban,Policyholder,>30,No,No,Aug,4,Wednesday,>30,8960.043265,1
+5866,All Perils,Male,34,Married,2,0,500,2 to 3,Sedan,Toyota,6,<20000,External,2,2021,Oct,3,Tuesday,1,Urban,Third Party,>30,No,No,Oct,3,Wednesday,>30,2595.596401,1
+5897,Collision,Male,58,Single,1,0,400,0,Sedan,Honda,6,20000 to 29000,External,16,2021,Aug,4,Wednesday,1,Urban,Policyholder,>30,No,No,Aug,4,Friday,>30,2159.099517,1
+5909,All Perils,Male,32,Married,2,1,400,0,Sedan,Chevrolet,7,20000 to 29000,External,6,2021,Aug,4,Thursday,1,Urban,Policyholder,>30,No,No,Sep,4,Thursday,>30,3315.190104,1
+5915,All Perils,Male,40,Married,1,2 to 4,400,0,Sedan,Hyundai,>7,30000 to 39000,External,13,2021,Aug,4,Thursday,1,Urban,Policyholder,>30,No,No,Aug,4,Friday,>30,60596.68383,1
+5930,All Perils,Male,35,Married,3,0,400,0,Sedan,Honda,7,<20000,External,5,2021,Aug,4,Friday,1,Urban,Policyholder,>30,No,No,Aug,5,Tuesday,>30,6387.332528,1
+5941,Collision,Male,46,Married,1,2 to 4,400,0,Sedan,Ford,>7,30000 to 39000,External,5,2021,Aug,4,Friday,1,Urban,Policyholder,>30,No,No,Aug,4,Friday,>30,63108.68995,1
+5968,Collision,Male,35,Single,4,1,500,2 to 3,Sedan,Honda,6,20000 to 29000,External,9,2021,Aug,5,Sunday,1,Urban,Policyholder,>30,No,No,Sep,2,Wednesday,>30,7897.532775,1
+5978,All Perils,Male,30,Single,3,0,400,0,Sedan,Ford,6,>69000,External,3,2021,Aug,5,Sunday,1,Rural,Policyholder,15 to 30,No,No,Nov,1,Thursday,>30,50211.56971,1
+5988,All Perils,Male,46,Married,3,>4,400,0,Utility,Ram,>7,30000 to 39000,External,14,2021,Aug,5,Monday,1,Urban,Policyholder,>30,No,No,Aug,5,Monday,>30,44900.00094,1
+6031,All Perils,Male,57,Married,1,2 to 4,400,0,Sedan,Chevrolet,>7,30000 to 39000,External,1,2021,Aug,5,Tuesday,1,Urban,Policyholder,>30,No,No,Sep,1,Friday,>30,53588.10536,1
+6032,All Perils,Male,52,Married,3,0,400,0,Sedan,Hyundai,>7,<20000,External,13,2021,Aug,5,Tuesday,1,Urban,Policyholder,>30,No,No,Aug,5,Wednesday,>30,3446.159045,1
+6035,All Perils,Male,42,Single,4,0,400,0,Sedan,Toyota,7,<20000,External,2,2021,Aug,5,Tuesday,1,Rural,Policyholder,>30,No,No,Aug,5,Wednesday,>30,2715.940234,1
+6073,All Perils,Male,31,Married,1,0,400,0,Sedan,Honda,7,30000 to 39000,External,14,2021,Sep,1,Thursday,1,Urban,Policyholder,>30,No,No,Sep,1,Friday,>30,5165.017566,1
+6088,All Perils,Male,33,Married,4,0,400,0,Sedan,Toyota,7,<20000,External,6,2021,Sep,1,Friday,1,Urban,Policyholder,>30,No,No,Sep,2,Tuesday,>30,2396.149649,1
+6089,All Perils,Male,41,Married,3,1,400,0,Sedan,Mazda,>7,20000 to 29000,External,10,2021,Sep,1,Friday,1,Urban,Policyholder,>30,No,No,Sep,2,Tuesday,>30,5013.569138,1
+6107,All Perils,Female,33,Married,4,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,3,2021,Sep,1,Saturday,1,Urban,Policyholder,>30,No,No,Nov,2,Monday,>30,7352.330349,1
+6110,Collision,Male,22,Single,3,2 to 4,400,0,Sedan,Mazda,5,20000 to 29000,External,3,2021,Sep,1,Saturday,3 to 4,Urban,Policyholder,>30,No,No,Sep,4,Friday,>30,3758.512886,1
+6119,Collision,Male,31,Married,3,>4,400,0,Sedan,Toyota,7,20000 to 29000,External,6,2021,Sep,1,Saturday,1,Urban,Policyholder,>30,No,No,Sep,1,Tuesday,>30,24192.64862,1
+6129,Collision,Male,31,Single,3,0,400,0,Sedan,Mazda,5,20000 to 29000,External,12,2021,Sep,1,Saturday,1,Urban,Policyholder,>30,No,Yes,Sep,1,Monday,>30,2266.085529,1
+6172,Collision,Male,39,Married,2,2 to 4,500,2 to 3,Sedan,Toyota,7,20000 to 29000,External,7,2022,Jun,4,Thursday,1,Urban,Third Party,>30,No,No,Jul,3,Monday,>30,7082.093585,1
+6178,Collision,Male,17,Single,3,0,400,0,Sport,Honda,3,>69000,External,13,2022,Sep,1,Monday,1,Rural,Policyholder,>30,No,No,Sep,1,Tuesday,>30,92071.02273,1
+6184,All Perils,Male,40,Married,1,2 to 4,400,0,Sedan,Toyota,7,20000 to 29000,External,2,2022,Sep,1,Tuesday,1,Urban,Policyholder,>30,No,No,Sep,3,Wednesday,>30,4575.795002,1
+6185,All Perils,Male,53,Married,4,1,400,0,Sedan,Honda,>7,20000 to 29000,External,12,2022,Sep,1,Tuesday,1,Urban,Policyholder,>30,No,No,Sep,2,Friday,>30,3008.608017,1
+6208,All Perils,Male,28,Married,4,1,400,0,Utility,Acura,6,>69000,External,6,2022,Sep,1,Tuesday,1,Urban,Policyholder,>30,No,No,Sep,5,Thursday,>30,50650.30854,1
+6269,All Perils,Male,31,Single,4,1,400,0,Sedan,Hyundai,7,20000 to 29000,External,8,2022,Sep,2,Saturday,1,Rural,Policyholder,>30,No,No,Sep,3,Saturday,>30,1355.202732,1
+6279,All Perils,Male,72,Married,1,0,400,0,Sedan,Acura,7,20000 to 29000,External,5,2022,Sep,2,Saturday,1,Urban,Policyholder,>30,No,No,Sep,4,Friday,>30,8843.099105,1
+6294,All Perils,Male,50,Married,3,2 to 4,700,0,Sedan,Mazda,>7,30000 to 39000,External,4,2022,Sep,2,Saturday,1,Urban,Policyholder,>30,No,No,Sep,2,Tuesday,>30,12809.67053,1
+6331,All Perils,Male,35,Single,4,1,400,0,Sedan,Toyota,5,<20000,External,4,2022,Sep,2,Monday,1,Urban,Policyholder,>30,No,No,Sep,4,Monday,>30,7595.747143,1
+6332,Collision,Male,27,Married,3,0,400,0,Sedan,Mazda,5,20000 to 29000,External,14,2022,Sep,2,Monday,1,Rural,Policyholder,>30,No,Yes,Sep,3,Friday,>30,6993.094917,1
+6361,All Perils,Male,43,Married,3,1,400,0,Sedan,Ram,7,20000 to 29000,External,8,2022,Sep,2,Tuesday,1,Urban,Policyholder,>30,No,No,Sep,3,Monday,>30,6880.070794,1
+6387,All Perils,Male,66,Married,3,0,700,0,Utility,Chevrolet,>7,>69000,External,13,2022,Sep,3,Wednesday,1,Urban,Policyholder,>30,No,No,Nov,2,Tuesday,>30,79076.27468,1
+6399,All Perils,Female,35,Widow,1,1,400,0,Sedan,Toyota,7,20000 to 29000,External,16,2022,Sep,3,Wednesday,1,Urban,Policyholder,>30,No,No,Sep,3,Friday,>30,3008.076788,1
+6431,Collision,Male,32,Married,1,2 to 4,400,0,Sedan,Toyota,7,20000 to 29000,External,10,2022,Sep,3,Friday,1,Urban,Policyholder,>30,No,No,Sep,5,Thursday,>30,970.1155918,1
+6437,Collision,Male,36,Married,3,1,400,0,Sedan,Mazda,7,30000 to 39000,External,6,2022,Sep,3,Friday,1,Urban,Policyholder,>30,No,No,Sep,5,Wednesday,>30,41177.68588,1
+6505,Liability,Male,29,Single,1,0,400,0,Sport,Toyota,7,20000 to 29000,External,1,2022,Sep,3,Sunday,1,Urban,Policyholder,>30,No,No,Sep,4,Wednesday,>30,4659.063499,1
+6526,Collision,Male,35,Married,2,0,400,0,Sedan,Toyota,5,20000 to 29000,External,8,2022,Sep,3,Monday,1,Urban,Policyholder,>30,No,No,Sep,4,Wednesday,>30,4210.533726,1
+6544,All Perils,Male,29,Married,3,2 to 4,400,0,Utility,Acura,7,>69000,External,12,2022,Sep,3,Monday,1,Rural,Policyholder,>30,No,No,Sep,4,Wednesday,>30,77972.4421,1
+6590,Collision,Female,39,Married,2,2 to 4,400,0,Sedan,Chevrolet,5,20000 to 29000,External,16,2022,Sep,4,Thursday,1,Urban,Policyholder,>30,No,No,Sep,4,Monday,>30,6029.659299,1
+6595,Collision,Male,18,Single,1,>4,400,4 to 8,Sedan,Mazda,2,20000 to 29000,External,8,2022,Sep,4,Friday,2,Urban,Policyholder,>30,No,No,Sep,5,Wednesday,>30,34080.09579,1
+6602,Collision,Male,27,Married,4,2 to 4,400,0,Sedan,Toyota,6,20000 to 29000,Internal,16,2022,Sep,4,Friday,3 to 4,Urban,Policyholder,>30,No,No,Oct,4,Friday,>30,2827.254951,1
+6604,Collision,Male,32,Single,1,0,400,0,Sport,Honda,6,>69000,External,8,2022,Sep,4,Friday,1,Urban,Policyholder,>30,No,No,Sep,4,Tuesday,>30,82440.20837,1
+6627,All Perils,Male,48,Married,4,0,400,0,Sedan,Chevrolet,>7,>69000,External,9,2022,Sep,4,Saturday,1,Urban,Policyholder,>30,No,No,Sep,4,Monday,>30,77816.5911,1
+6662,All Perils,Male,29,Married,4,0,400,0,Sedan,Hyundai,6,>69000,External,2,2022,Sep,4,Sunday,1,Urban,Policyholder,>30,No,No,Sep,5,Wednesday,>30,61120.60238,1
+6668,All Perils,Male,30,Single,1,0,400,0,Sedan,Honda,6,<20000,External,3,2022,Sep,4,Monday,1,Urban,Policyholder,>30,No,No,Oct,1,Thursday,>30,3834.681022,1
+6715,Collision,Male,46,Married,4,2 to 4,400,0,Sedan,Hyundai,>7,20000 to 29000,External,5,2022,Sep,4,Tuesday,1,Urban,Policyholder,>30,No,No,Sep,5,Thursday,>30,6744.663293,1
+6752,Collision,Male,43,Married,3,>4,400,0,Sedan,Toyota,6,>69000,External,1,2022,Sep,5,Wednesday,1,Urban,Policyholder,>30,No,No,Oct,3,Monday,>30,77972.4421,1
+6769,Collision,Male,57,Married,2,2 to 4,400,0,Sedan,Chevrolet,7,>69000,External,16,2022,Sep,5,Friday,1,Rural,Policyholder,>30,No,No,Oct,1,Monday,>30,54631.38453,1
+6779,All Perils,Male,31,Single,1,1,400,0,Sedan,Hyundai,6,<20000,External,2,2022,Sep,5,Friday,1,Urban,Policyholder,>30,No,No,Oct,2,Monday,>30,9643.178638,1
+6791,Collision,Female,34,Married,1,1,400,0,Sedan,Hyundai,7,20000 to 29000,External,11,2022,Sep,5,Friday,1,Rural,Policyholder,>30,No,No,Oct,2,Monday,>30,4022.115364,1
+6823,All Perils,Male,58,Single,2,2 to 4,400,0,Sedan,Acura,>7,>69000,External,5,2022,Oct,1,Saturday,1,Urban,Policyholder,>30,No,No,Apr,4,Monday,>30,87808.1069,1
+6835,Collision,Male,59,Married,2,2 to 4,500,2 to 3,Sedan,Mazda,7,20000 to 29000,External,10,2022,Oct,1,Sunday,1,Urban,Policyholder,>30,No,No,Oct,2,Friday,>30,5001.617764,1
+6911,All Perils,Male,30,Married,4,0,400,0,Utility,Acura,7,>69000,External,1,2022,Oct,1,Monday,1,Urban,Policyholder,>30,No,No,Oct,1,Monday,>30,95769.14484,1
+6922,All Perils,Male,78,Married,1,0,400,0,Sedan,Hyundai,>7,20000 to 29000,External,4,2022,Oct,1,Tuesday,1,Rural,Policyholder,>30,No,No,Oct,1,Thursday,>30,6423.209878,1
+6988,Collision,Female,45,Married,2,0,500,2 to 3,Sedan,Hyundai,6,20000 to 29000,External,1,2022,Feb,2,Wednesday,1,Urban,Third Party,>30,No,No,Feb,2,Thursday,>30,1286.919196,1
+6991,All Perils,Male,60,Married,4,0,400,0,Sedan,Kia,>7,20000 to 29000,External,10,2022,Oct,2,Friday,1,Urban,Policyholder,>30,No,No,Oct,2,Monday,>30,634.4050745,1
+7019,All Perils,Male,19,Single,1,0,400,0,Sedan,Toyota,3,20000 to 29000,External,5,2022,Oct,2,Saturday,1,Urban,Policyholder,>30,No,No,Oct,4,Monday,>30,8302.500167,1
+7044,All Perils,Male,56,Married,3,0,400,0,Sedan,Mercedes,7,>69000,External,14,2022,Oct,2,Sunday,1,Urban,Policyholder,>30,No,No,Oct,2,Monday,>30,57741.21514,1
+7050,Collision,Male,39,Married,3,1,400,0,Sedan,Mazda,7,20000 to 29000,External,9,2022,Oct,2,Sunday,1,Urban,Policyholder,>30,No,No,Oct,2,Tuesday,>30,3634.511314,1
+7053,All Perils,Male,49,Single,2,0,400,0,Sedan,Chevrolet,>7,>69000,External,3,2022,Oct,2,Sunday,3 to 4,Urban,Policyholder,>30,No,No,Oct,2,Monday,>30,64586.61862,1
+7065,Liability,Male,51,Married,3,0,400,0,Sport,Toyota,>7,20000 to 29000,External,7,2022,Oct,2,Monday,1,Urban,Policyholder,>30,No,No,Oct,2,Tuesday,>30,2075.364178,1
+7076,Collision,Male,27,Single,4,>4,400,0,Sedan,Hyundai,6,20000 to 29000,External,7,2022,Oct,2,Monday,1,Urban,Policyholder,>30,No,No,Nov,4,Friday,>30,12302.53686,1
+7135,Collision,Male,34,Married,2,1,400,0,Sedan,Saab,7,30000 to 39000,External,12,2022,Oct,2,Wednesday,3 to 4,Rural,Policyholder,>30,No,No,Oct,3,Friday,>30,98988.39793,1
+7160,Collision,Male,29,Married,4,2 to 4,400,0,Sedan,Honda,6,20000 to 29000,External,10,2022,Oct,2,Thursday,1,Urban,Policyholder,>30,No,No,Oct,3,Monday,>30,9009.326403,1
+7166,Collision,Male,35,Single,3,>4,400,0,Sedan,Honda,7,30000 to 39000,External,12,2022,Oct,2,Thursday,1,Urban,Policyholder,>30,No,No,Nov,2,Wednesday,>30,18622.76556,1
+7181,All Perils,Male,33,Married,2,1,400,0,Sedan,Honda,6,20000 to 29000,External,9,2022,Oct,2,Thursday,1,Urban,Policyholder,>30,No,No,Oct,3,Thursday,>30,3835.673211,1
+7213,All Perils,Female,30,Married,3,1,400,0,Sedan,Chevrolet,6,>69000,External,16,2022,Oct,3,Friday,1,Rural,Policyholder,>30,No,No,Oct,3,Monday,>30,71748.16292,1
+7230,Collision,Female,46,Married,3,>4,400,0,Sedan,Mazda,>7,30000 to 39000,External,4,2022,Oct,3,Saturday,1,Urban,Policyholder,>30,No,No,Oct,3,Tuesday,>30,10821.84235,1
+7317,Collision,Male,35,Single,4,2 to 4,700,0,Sedan,Hyundai,7,30000 to 39000,External,13,2022,Oct,3,Monday,1,Urban,Policyholder,>30,No,No,Oct,4,Wednesday,>30,12397.28568,1
+7325,All Perils,Male,64,Married,1,1,400,0,Sedan,Hyundai,>7,20000 to 29000,External,6,2022,Oct,3,Tuesday,1,Urban,Policyholder,>30,No,No,Oct,4,Friday,>30,9297.11793,1
+7360,All Perils,Male,28,Single,4,0,400,0,Sedan,Chevrolet,5,20000 to 29000,External,6,2022,Oct,3,Thursday,1,Urban,Policyholder,>30,No,No,Oct,4,Tuesday,>30,2738.461177,1
+7395,All Perils,Female,42,Single,3,0,400,0,Sedan,Honda,4,20000 to 29000,External,8,2022,Oct,4,Saturday,1,Rural,Policyholder,>30,No,No,Oct,4,Wednesday,>30,6283.303656,1
+7396,All Perils,Male,34,Married,4,1,300,2 to 3,Sedan,Mazda,5,20000 to 29000,External,13,2022,Nov,3,Monday,1,Urban,Third Party,>30,No,No,Nov,3,Wednesday,>30,2180.252304,1
+7423,All Perils,Male,49,Single,1,0,400,0,Sedan,Toyota,7,20000 to 29000,External,6,2022,Oct,4,Sunday,1,Rural,Policyholder,>30,No,No,Oct,5,Monday,>30,956.576312,1
+7461,Collision,Female,31,Married,1,2 to 4,400,0,Sedan,Mazda,6,20000 to 29000,External,10,2022,Oct,4,Monday,1,Urban,Policyholder,>30,No,No,Oct,4,Tuesday,>30,6555.966831,1
+7466,Collision,Male,32,Married,4,1,400,0,Sedan,Honda,6,20000 to 29000,External,9,2022,Oct,4,Monday,1,Urban,Policyholder,>30,No,No,Oct,4,Monday,>30,6659.006667,1
+7477,All Perils,Male,50,Married,4,2 to 4,400,4 to 8,Sedan,Toyota,7,20000 to 29000,External,3,2022,Oct,4,Tuesday,2,Urban,Policyholder,>30,No,No,Nov,2,Tuesday,>30,6843.882212,1
+7495,All Perils,Male,68,Married,2,0,400,0,Utility,Acura,>7,>69000,External,7,2022,Oct,4,Tuesday,1,Urban,Policyholder,>30,No,No,Oct,4,Thursday,>30,99231.46621,1
+7522,All Perils,Male,29,Married,2,1,400,0,Sedan,Hyundai,6,20000 to 29000,External,3,2022,Oct,5,Friday,1,Urban,Policyholder,>30,No,No,Nov,2,Friday,>30,1479.75743,1
+7523,All Perils,Male,28,Married,3,1,400,0,Sedan,Mazda,7,20000 to 29000,External,11,2022,Oct,5,Friday,1,Urban,Policyholder,>30,No,No,Dec,4,Thursday,>30,4381.965081,1
+7555,All Perils,Male,60,Married,4,1,400,0,Utility,Acura,>7,>69000,External,3,2022,Oct,5,Friday,1,Urban,Policyholder,>30,No,No,Dec,3,Wednesday,>30,74391.15305,1
+7556,Collision,Male,59,Married,1,1,400,0,Sedan,Toyota,7,20000 to 29000,External,11,2022,Oct,5,Saturday,1,Urban,Policyholder,>30,No,No,Nov,2,Tuesday,>30,4209.213182,1
+7559,All Perils,Male,30,Single,3,2 to 4,400,0,Sedan,Ford,7,20000 to 29000,External,1,2022,Oct,5,Saturday,1,Urban,Policyholder,>30,No,No,Nov,1,Friday,>30,3536.796724,1
+7584,Liability,Female,26,Single,3,2 to 4,400,0,Sport,Toyota,4,20000 to 29000,External,6,2022,Oct,5,Sunday,1,Urban,Policyholder,>30,No,No,Nov,1,Wednesday,>30,7381.447957,1
+7612,All Perils,Male,46,Married,1,2 to 4,400,0,Sedan,Mazda,7,<20000,External,16,2022,Oct,5,Monday,1,Rural,Policyholder,>30,No,No,Nov,1,Wednesday,>30,3241.702256,1
+7651,All Perils,Male,45,Single,4,0,500,2 to 3,Sedan,VW,7,>69000,External,3,2022,Feb,3,Friday,1,Urban,Third Party,>30,No,No,Mar,3,Thursday,>30,79417.32882,1
+7660,All Perils,Male,76,Married,3,0,400,0,Sedan,Acura,>7,30000 to 39000,External,9,2022,Nov,1,Tuesday,1,Rural,Policyholder,>30,No,No,Nov,1,Wednesday,>30,5802.121871,1
+7666,Collision,Female,31,Single,2,0,400,4 to 8,Sedan,Chevrolet,5,20000 to 29000,External,4,2022,Nov,1,Tuesday,2,Urban,Policyholder,>30,No,No,Nov,1,Wednesday,>30,2400.473393,1
+7697,Collision,Male,46,Married,3,0,400,0,Sedan,Acura,>7,>69000,External,6,2022,Nov,1,Thursday,1,Urban,Policyholder,>30,No,No,Nov,4,Monday,>30,60355.76165,1
+7730,All Perils,Male,28,Married,1,1,400,0,Sedan,Hyundai,6,30000 to 39000,External,15,2022,Nov,1,Friday,1,Urban,Policyholder,>30,No,No,Nov,2,Thursday,>30,71717.74503,1
+7788,Collision,Male,54,Married,1,1,400,0,Sedan,Hyundai,7,30000 to 39000,External,2,2022,Nov,1,Sunday,1,Rural,Policyholder,>30,No,No,Nov,2,Friday,>30,54147.20791,1
+7822,All Perils,Male,29,Single,2,0,400,0,Utility,Chevrolet,6,>69000,External,2,2022,Nov,2,Tuesday,1,Rural,Policyholder,>30,No,No,Nov,3,Tuesday,>30,67116.2588,1
+7871,Collision,Male,36,Single,1,0,400,0,Sedan,Honda,7,20000 to 29000,External,13,2022,Nov,2,Thursday,1,Urban,Policyholder,>30,No,No,Nov,2,Friday,>30,4623.797025,1
+7872,Collision,Male,53,Married,2,0,400,0,Sedan,Toyota,4,20000 to 29000,External,5,2022,Nov,2,Thursday,1,Rural,Policyholder,>30,No,No,Nov,2,Friday,>30,4164.210004,1
+7998,All Perils,Male,28,Married,3,0,400,0,Sedan,Mazda,4,20000 to 29000,External,15,2022,Nov,3,Monday,1,Urban,Policyholder,>30,No,No,Nov,4,Wednesday,>30,4155.870655,1
+8008,Collision,Male,38,Married,3,2 to 4,500,0,Sedan,Toyota,>7,30000 to 39000,External,13,2022,Dec,2,Sunday,1,Urban,Third Party,>30,No,Yes,Dec,2,Monday,>30,11685.71844,1
+8059,Collision,Male,28,Married,2,2 to 4,500,2 to 3,Sedan,Acura,6,30000 to 39000,External,6,2022,Nov,3,Thursday,1,Urban,Policyholder,>30,No,No,Dec,4,Wednesday,>30,50126.97596,1
+8092,Collision,Male,50,Married,2,0,700,0,Sedan,Honda,>7,20000 to 29000,External,11,2022,Nov,3,Friday,1,Urban,Policyholder,>30,No,No,Nov,3,Friday,>30,970.1155918,1
+8099,All Perils,Male,27,Married,3,0,400,0,Sedan,Toyota,7,20000 to 29000,External,7,2022,Nov,3,Saturday,1,Rural,Policyholder,>30,No,No,Nov,5,Tuesday,>30,2148.081539,1
+8105,All Perils,Male,30,Married,1,2 to 4,400,0,Sedan,Kia,7,20000 to 29000,External,1,2022,Nov,3,Saturday,1,Urban,Policyholder,>30,No,No,Dec,1,Friday,>30,6207.716818,1
+8113,All Perils,Male,28,Single,3,2 to 4,400,0,Sedan,Hyundai,6,20000 to 29000,External,13,2022,Nov,3,Sunday,1,Urban,Policyholder,>30,No,No,Jan,4,Monday,>30,1242.965757,1
+8251,All Perils,Male,40,Single,3,2 to 4,400,0,Sedan,Chevrolet,6,60000 to 69000,External,6,2022,Nov,5,Monday,1,Urban,Policyholder,>30,No,No,Dec,1,Friday,>30,50943.27551,1
+8253,All Perils,Male,37,Single,4,1,400,0,Utility,Ford,>7,>69000,External,14,2022,Nov,5,Monday,1,Rural,Policyholder,>30,No,No,Dec,2,Tuesday,>30,50290.01757,1
+8290,Collision,Male,31,Married,4,2 to 4,400,0,Sedan,Mazda,7,30000 to 39000,External,14,2022,Nov,5,Tuesday,1,Urban,Policyholder,>30,No,No,Dec,2,Monday,>30,34080.09579,1
+8314,All Perils,Male,35,Married,4,0,500,2 to 3,Sedan,Hyundai,6,20000 to 29000,External,11,2022,Nov,2,Sunday,1,Urban,Third Party,>30,No,No,Nov,3,Monday,>30,7238.289558,1
+8335,Liability,Male,44,Married,2,2 to 4,400,0,Sport,Toyota,7,>69000,External,11,2022,Dec,1,Thursday,1,Urban,Policyholder,>30,No,No,Dec,1,Friday,>30,59294.45557,1
+8353,Collision,Female,41,Married,3,2 to 4,400,0,Sedan,Honda,7,20000 to 29000,External,11,2022,Dec,1,Friday,1,Urban,Policyholder,>30,No,No,Dec,3,Friday,>30,8293.931599,1
+8365,Collision,Male,37,Married,3,1,500,2 to 3,Sedan,Toyota,7,20000 to 29000,External,13,2022,Aug,2,Saturday,3 to 4,Urban,Third Party,>30,No,No,Aug,4,Monday,>30,9819.713144,1
+8367,All Perils,Male,32,Single,2,2 to 4,400,0,Utility,Chevrolet,6,>69000,External,11,2022,Dec,1,Sunday,1,Urban,Policyholder,>30,No,No,Dec,3,Thursday,>30,66034.99218,1
+8378,Collision,Male,31,Married,2,2 to 4,400,0,Sedan,Hyundai,7,30000 to 39000,External,1,2022,Dec,1,Sunday,1,Urban,Policyholder,>30,No,No,Dec,3,Friday,>30,85555.91624,1
+8459,Collision,Male,57,Single,3,>4,400,0,Sedan,Hyundai,>7,30000 to 39000,External,2,2022,Dec,2,Wednesday,1,Urban,Policyholder,>30,No,No,Dec,3,Wednesday,>30,33258.21029,1
+8466,All Perils,Female,30,Married,3,1,400,0,Sedan,Hyundai,6,<20000,External,6,2022,Dec,2,Wednesday,1,Urban,Policyholder,>30,No,No,Dec,2,Monday,>30,4427.23141,1
+8496,All Perils,Male,59,Married,2,1,400,0,Sedan,Hyundai,6,<20000,External,8,2022,Dec,2,Saturday,1,Rural,Policyholder,>30,No,No,Dec,3,Monday,>30,5001.617764,1
+8521,Collision,Male,50,Married,1,>4,400,0,Sedan,Mazda,>7,30000 to 39000,External,11,2022,Dec,2,Sunday,1,Urban,Policyholder,>30,No,Yes,Dec,4,Wednesday,>30,69841.76238,1
+8522,Liability,Female,33,Married,1,>4,400,0,Sport,Mazda,7,20000 to 29000,External,3,2022,Dec,2,Sunday,1,Urban,Policyholder,>30,No,Yes,Dec,2,Monday,>30,36250.54795,1
+8592,All Perils,Male,52,Married,2,2 to 4,400,0,Sedan,Acura,7,30000 to 39000,External,11,2022,Dec,2,Tuesday,1,Urban,Policyholder,>30,No,No,Feb,1,Thursday,>30,52494.33742,1
+8604,Collision,Male,35,Single,3,0,400,0,Sedan,Toyota,6,20000 to 29000,External,15,2022,Dec,3,Wednesday,1,Urban,Policyholder,>30,No,No,Feb,2,Thursday,>30,8123.078216,1
+8605,All Perils,Male,29,Married,1,2 to 4,400,0,Sedan,Hyundai,6,30000 to 39000,External,15,2022,Dec,3,Wednesday,1,Urban,Policyholder,>30,No,No,Jan,4,Friday,>30,90499.99411,1
+8614,Collision,Male,47,Married,2,0,400,0,Sedan,Honda,>7,20000 to 29000,External,7,2022,Dec,3,Thursday,1,Urban,Policyholder,>30,No,No,Dec,4,Friday,>30,1603.948158,1
+8630,Collision,Male,67,Married,3,>4,400,0,Sedan,Chevrolet,>7,30000 to 39000,External,10,2022,Dec,3,Thursday,1,Urban,Policyholder,>30,No,No,Dec,4,Wednesday,>30,31116.88636,1
+8680,All Perils,Male,49,Married,2,0,400,0,Sedan,Hyundai,>7,<20000,External,14,2022,Dec,3,Sunday,1,Urban,Policyholder,>30,No,No,Dec,3,Monday,>30,8302.500167,1
+8692,All Perils,Male,36,Single,1,0,400,0,Utility,Acura,7,>69000,External,14,2022,Dec,3,Monday,1,Urban,Policyholder,>30,No,No,Dec,5,Wednesday,>30,80258.15858,1
+8694,Collision,Female,26,Married,2,2 to 4,400,0,Sedan,Toyota,5,30000 to 39000,External,12,2022,Dec,3,Monday,1,Urban,Policyholder,>30,No,No,Dec,3,Monday,>30,50004.75571,1
+8703,All Perils,Male,34,Married,1,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,12,2022,Dec,3,Monday,1,Urban,Policyholder,>30,No,No,Jan,1,Monday,>30,5478.18095,1
+8704,All Perils,Male,34,Single,2,2 to 4,400,0,Sedan,Saab,6,30000 to 39000,External,15,2022,Dec,3,Monday,1,Urban,Policyholder,>30,No,No,Dec,5,Wednesday,>30,64586.61862,1
+8715,Liability,Male,22,Single,3,2 to 4,400,0,Sport,Toyota,4,20000 to 29000,External,6,2022,Dec,3,Tuesday,1,Urban,Policyholder,>30,No,No,Dec,4,Tuesday,>30,939.3497871,1
+8770,All Perils,Male,44,Married,4,2 to 4,400,0,Sedan,Hyundai,7,<20000,External,7,2022,Dec,4,Friday,1,Urban,Policyholder,>30,No,No,Jan,2,Wednesday,>30,3710.477769,1
+8831,Collision,Male,47,Married,1,2 to 4,400,0,Sedan,Honda,>7,20000 to 29000,External,12,2022,Dec,4,Sunday,1,Urban,Policyholder,>30,No,No,Feb,1,Monday,>30,1482.658078,1
+8846,All Perils,Male,22,Single,4,2 to 4,400,0,Sedan,Hyundai,5,20000 to 29000,External,13,2022,Dec,4,Monday,1,Urban,Policyholder,>30,No,No,Dec,5,Thursday,>30,2231.588304,1
+8855,All Perils,Male,38,Married,4,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,5,2022,Dec,4,Tuesday,1,Urban,Policyholder,>30,No,No,Jan,1,Tuesday,>30,6560.457173,1
+8874,Collision,Male,27,Single,2,1,400,0,Sedan,Toyota,7,20000 to 29000,External,1,2022,Dec,4,Tuesday,1,Urban,Policyholder,>30,No,No,Jan,1,Thursday,>30,4413.58077,1
+8876,Collision,Male,46,Married,4,0,400,0,Sport,Honda,>7,>69000,External,7,2022,Dec,4,Tuesday,1,Urban,Policyholder,>30,No,No,Jan,1,Friday,>30,70113.6427,1
+8878,All Perils,Male,32,Married,1,1,400,0,Sedan,Hyundai,7,20000 to 29000,External,8,2022,Dec,5,Wednesday,1,Rural,Policyholder,>30,No,No,Jan,1,Wednesday,>30,8093.454213,1
+8960,All Perils,Male,26,Married,4,1,400,0,Sedan,Toyota,4,<20000,External,10,2022,Dec,5,Friday,1,Urban,Policyholder,0,No,No,Jan,2,Wednesday,>30,4903.691712,1
+8964,All Perils,Male,62,Married,1,0,400,0,Sedan,Honda,4,20000 to 29000,External,10,2022,Dec,5,Friday,1,Urban,Policyholder,>30,No,No,Jan,1,Tuesday,>30,9469.614715,1
+9007,Collision,Male,34,Married,2,2 to 4,400,0,Sedan,Hyundai,5,20000 to 29000,External,12,2022,Dec,5,Saturday,1,Rural,Policyholder,>30,No,No,Jan,1,Wednesday,>30,660.6033083,1
+9051,Collision,Female,29,Married,3,2 to 4,400,0,Sedan,Honda,5,>69000,External,14,2022,Jan,1,Monday,1,Urban,Policyholder,>30,No,Yes,Feb,1,Thursday,>30,54340.81203,1
+9056,All Perils,Female,43,Married,2,0,400,0,Sedan,Hyundai,>7,<20000,External,6,2022,Jan,1,Monday,1,Urban,Policyholder,>30,No,No,Jan,1,Tuesday,>30,6283.303656,1
+9071,Collision,Male,47,Single,1,0,400,0,Sedan,Toyota,>7,20000 to 29000,External,12,2022,Jan,1,Tuesday,1,Urban,Policyholder,>30,No,No,Jan,2,Tuesday,>30,5668.159102,1
+9088,All Perils,Female,28,Single,3,0,400,0,Sedan,Mazda,7,20000 to 29000,External,9,2022,Jan,1,Wednesday,1,Urban,Policyholder,>30,No,No,Jan,3,Wednesday,>30,2021.028928,1
+9111,All Perils,Male,29,Married,1,0,400,0,Sedan,Toyota,5,<20000,External,7,2022,Jan,1,Thursday,1,Rural,Policyholder,>30,No,No,Jan,2,Thursday,>30,1992.85307,1
+9141,Collision,Male,49,Married,4,0,400,0,Sedan,Toyota,6,20000 to 29000,External,1,2022,Jan,2,Saturday,1,Urban,Policyholder,>30,No,No,Jan,2,Friday,>30,3043.784351,1
+9143,Collision,Male,64,Married,3,0,400,0,Sedan,Acura,>7,40000 to 59000,External,2,2022,Jan,2,Saturday,1,Urban,Policyholder,>30,No,No,Jan,3,Thursday,>30,2025.543302,1
+9144,Collision,Male,38,Married,1,2 to 4,400,0,Sedan,Honda,>7,20000 to 29000,External,3,2022,Jan,2,Saturday,3 to 4,Urban,Policyholder,>30,No,No,Jan,3,Wednesday,>30,3178.660992,1
+9153,Collision,Male,54,Married,2,>4,400,0,Sedan,Hyundai,7,20000 to 29000,External,15,2022,Jan,2,Sunday,1,Rural,Policyholder,>30,No,No,Jan,2,Monday,>30,16886.38896,1
+9162,Collision,Male,38,Single,4,2 to 4,400,0,Sedan,Acura,7,>69000,External,3,2022,Jan,2,Monday,1,Urban,Policyholder,>30,No,No,Jan,3,Tuesday,>30,53128.31394,1
+9204,Collision,Male,35,Married,2,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,6,2022,Jan,2,Tuesday,1,Urban,Policyholder,>30,No,No,Jan,3,Friday,>30,1596.588304,1
+9211,All Perils,Male,26,Married,4,2 to 4,400,0,Sedan,Hyundai,6,20000 to 29000,External,12,2022,Jan,2,Tuesday,1,Urban,Policyholder,>30,No,No,Feb,2,Friday,>30,8827.351402,1
+9220,Collision,Male,32,Married,3,0,400,4 to 8,Sport,Honda,7,>69000,External,14,2022,Jan,2,Tuesday,2,Rural,Policyholder,>30,No,No,Jan,2,Tuesday,>30,78989.11144,1
+9247,All Perils,Male,32,Married,3,0,400,0,Sedan,Chevrolet,6,20000 to 29000,External,2,2022,Jan,2,Wednesday,1,Urban,Policyholder,>30,No,No,Jan,3,Monday,>30,3173.269358,1
+9263,Collision,Male,53,Married,2,2 to 4,400,0,Sedan,Mazda,>7,30000 to 39000,External,14,2022,Jan,2,Thursday,1,Urban,Policyholder,>30,No,No,Jan,3,Monday,>30,62457.76232,1
+9269,All Perils,Male,50,Married,2,2 to 4,400,0,Sedan,Ford,>7,<20000,External,7,2022,Jan,2,Thursday,1,Urban,Policyholder,>30,No,No,Jan,4,Tuesday,>30,6514.899453,1
+9270,Collision,Female,33,Married,4,>4,400,0,Sedan,Hyundai,6,20000 to 29000,External,9,2022,Jan,2,Friday,1,Urban,Policyholder,>30,No,No,Jan,4,Tuesday,>30,21916.43851,1
+9283,Collision,Male,32,Single,1,2 to 4,500,1,Sedan,Toyota,6,20000 to 29000,External,10,2022,Jan,2,Friday,2,Urban,Policyholder,>30,No,No,Jan,3,Friday,>30,872.5848706,1
+9288,All Perils,Male,44,Married,3,2 to 4,400,0,Sedan,Chevrolet,7,30000 to 39000,External,9,2022,Jan,3,Saturday,1,Urban,Policyholder,>30,No,No,Jan,4,Tuesday,>30,10176.01692,1
+9300,All Perils,Male,35,Married,1,1,400,0,Sedan,Mazda,7,20000 to 29000,External,9,2022,Jan,3,Saturday,1,Urban,Policyholder,>30,No,No,Feb,1,Wednesday,>30,9502.020922,1
+9351,All Perils,Male,26,Married,2,0,400,0,Sedan,Hyundai,7,<20000,External,2,2022,Jan,3,Tuesday,1,Urban,Policyholder,>30,No,No,Jan,3,Tuesday,>30,3665.962301,1
+9352,Collision,Male,46,Married,3,>4,400,0,Utility,Chevrolet,7,>69000,External,13,2022,Jan,3,Tuesday,1,Urban,Policyholder,>30,No,No,Jan,3,Wednesday,>30,60381.51376,1
+9440,All Perils,Male,72,Married,3,2 to 4,400,0,Sedan,Honda,>7,<20000,External,7,2022,Jan,3,Friday,1,Urban,Policyholder,>30,No,No,Jan,3,Friday,>30,3305.984908,1
+9461,Collision,Male,29,Married,1,1,400,0,Sedan,Chevrolet,7,30000 to 39000,External,15,2022,Jan,4,Saturday,1,Rural,Policyholder,>30,No,No,Mar,1,Thursday,>30,50653.91045,1
+9484,Collision,Female,49,Married,1,2 to 4,400,0,Sedan,Chevrolet,7,20000 to 29000,External,15,2022,Jan,4,Saturday,1,Urban,Policyholder,>30,No,No,Jan,4,Tuesday,>30,1671.463416,1
+9510,Liability,Male,38,Married,2,2 to 4,400,0,Sport,Toyota,>7,30000 to 39000,External,11,2022,Jan,4,Sunday,1,Urban,Policyholder,>30,No,No,Jan,5,Monday,>30,50650.30854,1
+9519,Collision,Male,32,Married,2,1,400,0,Sedan,Toyota,6,20000 to 29000,External,3,2022,Jan,4,Sunday,1,Urban,Policyholder,>30,No,No,Feb,2,Thursday,>30,1916.435874,1
+9614,All Perils,Female,26,Single,2,2 to 4,400,0,Sedan,Hyundai,6,20000 to 29000,External,16,2022,Jan,4,Thursday,1,Urban,Policyholder,>30,No,No,Feb,1,Friday,>30,2429.480536,1
+9670,Collision,Male,37,Married,4,2 to 4,400,0,Sport,Honda,7,>69000,External,12,2022,Jan,4,Friday,1,Urban,Policyholder,>30,No,No,Jan,5,Monday,>30,87808.1069,1
+9809,All Perils,Male,51,Married,3,0,400,0,Sedan,Toyota,6,<20000,External,16,2022,Feb,1,Thursday,1,Urban,Policyholder,>30,No,No,Feb,1,Monday,>30,1339.743613,1
+9814,Collision,Male,26,Married,4,1,400,0,Sedan,Chevrolet,6,30000 to 39000,External,9,2022,Feb,1,Thursday,1,Urban,Policyholder,>30,No,No,Feb,4,Thursday,>30,24296.09297,1
+9842,Collision,Male,76,Married,2,0,400,0,Sport,Honda,>7,>69000,External,10,2022,Feb,1,Friday,1,Urban,Policyholder,>30,No,No,Feb,3,Wednesday,>30,60355.76165,1
+9850,Collision,Male,27,Married,3,0,400,4 to 8,Sedan,Hyundai,6,30000 to 39000,External,13,2022,Feb,1,Saturday,2,Rural,Policyholder,>30,No,No,Apr,4,Tuesday,>30,3909.120915,1
+9867,All Perils,Male,44,Married,1,0,400,0,Sedan,Mazda,7,>69000,External,8,2022,Feb,1,Sunday,1,Urban,Policyholder,>30,No,No,Feb,1,Monday,>30,57426.14892,1
+9873,Collision,Male,29,Married,1,1,400,0,Sedan,Mazda,7,20000 to 29000,External,9,2022,Feb,1,Sunday,1,Urban,Policyholder,>30,No,No,Feb,1,Monday,>30,4826.527416,1
+9874,Collision,Female,32,Single,3,2 to 4,400,0,Sedan,Hyundai,7,20000 to 29000,External,15,2022,Feb,1,Sunday,1,Urban,Policyholder,>30,No,No,Feb,3,Tuesday,>30,2645.287672,1
+9880,Collision,Male,28,Married,3,0,400,0,Sedan,Honda,7,30000 to 39000,External,1,2022,Feb,1,Sunday,1,Urban,Policyholder,>30,No,No,Feb,2,Thursday,>30,4392.876957,1
+9923,All Perils,Male,36,Married,4,2 to 4,400,0,Sedan,Mazda,7,20000 to 29000,External,7,2022,Feb,1,Monday,3 to 4,Urban,Policyholder,>30,No,No,Feb,1,Monday,>30,6544.577053,1
+9929,All Perils,Female,32,Single,3,2 to 4,400,0,Sedan,Toyota,6,<20000,External,6,2022,Feb,2,Tuesday,1,Urban,Policyholder,>30,No,No,Feb,2,Thursday,>30,2130.089536,1
+9946,All Perils,Male,30,Married,4,2 to 4,500,2 to 3,Sedan,Ford,7,40000 to 59000,External,5,2022,Nov,1,Saturday,1,Urban,Third Party,>30,No,No,Nov,2,Wednesday,>30,22262.93367,1
+9947,Collision,Female,34,Married,1,>4,400,0,Sedan,Honda,7,20000 to 29000,External,7,2022,Feb,2,Tuesday,1,Urban,Policyholder,>30,No,No,Apr,1,Wednesday,>30,36802.45293,1
+9986,All Perils,Male,51,Married,2,>4,400,0,Utility,Ford,7,>69000,External,2,2022,Feb,2,Wednesday,1,Urban,Policyholder,>30,No,No,Feb,3,Thursday,>30,59294.45557,1
+9997,Collision,Male,30,Single,2,>4,500,2 to 3,Sedan,Hyundai,6,20000 to 29000,External,9,2022,Feb,2,Thursday,2,Urban,Policyholder,>30,No,No,Feb,3,Tuesday,>30,18108.96768,1
+10016,All Perils,Female,33,Married,3,2 to 4,400,0,Sedan,Toyota,7,>69000,External,14,2022,Feb,2,Friday,1,Urban,Policyholder,>30,No,No,Feb,3,Thursday,>30,84229.61797,1
+10031,Collision,Male,72,Married,2,2 to 4,400,0,Sedan,Toyota,>7,20000 to 29000,External,6,2022,Feb,2,Friday,1,Urban,Policyholder,>30,No,Yes,Feb,3,Friday,>30,1697.765871,1
+10032,All Perils,Male,27,Single,2,0,400,0,Sedan,Toyota,6,<20000,External,9,2022,Feb,2,Friday,1,Urban,Policyholder,0,No,No,Feb,2,Saturday,>30,2984.396383,1
+10088,Collision,Male,35,Single,4,2 to 4,400,0,Sedan,Honda,5,20000 to 29000,External,3,2022,Feb,2,Monday,1,Urban,Policyholder,>30,No,No,Mar,2,Friday,>30,9105.324047,1
+10089,Collision,Male,64,Married,2,>4,400,0,Sedan,Mazda,6,30000 to 39000,External,11,2022,Feb,2,Monday,1,Urban,Policyholder,>30,No,No,Mar,1,Wednesday,>30,60355.76165,1
+10101,Collision,Male,35,Married,2,0,400,0,Sedan,Mazda,6,20000 to 29000,External,6,2022,Feb,3,Tuesday,1,Rural,Policyholder,>30,No,No,Feb,4,Tuesday,>30,8792.724316,1
+10117,All Perils,Male,17,Single,1,0,400,0,Utility,Honda,0,>69000,External,11,2022,Feb,3,Tuesday,1,Urban,Policyholder,>30,No,No,Feb,3,Thursday,>30,55057.67381,1
+10125,All Perils,Male,36,Single,2,>4,400,0,Utility,Hyundai,7,40000 to 59000,External,13,2022,Feb,3,Wednesday,1,Urban,Policyholder,>30,No,No,Feb,3,Thursday,>30,59306.5346,1
+10150,All Perils,Male,69,Married,1,2 to 4,500,2 to 3,Sedan,Hyundai,7,20000 to 29000,External,13,2022,Feb,3,Thursday,1,Urban,Policyholder,>30,No,No,Feb,3,Monday,>30,2513.476921,1
+10154,All Perils,Male,49,Married,1,2 to 4,400,0,Sedan,Hyundai,>7,20000 to 29000,External,11,2022,Feb,3,Thursday,5 to 8,Urban,Policyholder,>30,No,No,Feb,3,Monday,>30,6656.328102,1
+10156,All Perils,Male,41,Single,3,0,400,0,Sedan,Hyundai,7,>69000,External,14,2022,Feb,3,Thursday,1,Urban,Policyholder,>30,No,No,Feb,4,Monday,>30,73961.69079,1
+10157,Collision,Male,35,Married,4,0,400,0,Sport,Honda,6,>69000,External,5,2022,Feb,3,Thursday,1,Urban,Policyholder,>30,No,No,Feb,3,Friday,>30,51938.49001,1
+10184,All Perils,Male,61,Married,4,>4,400,0,Sedan,Acura,>7,30000 to 39000,External,8,2022,Feb,3,Saturday,1,Urban,Policyholder,>30,No,No,Feb,4,Thursday,>30,15798.18639,1
+10223,Collision,Male,63,Married,1,0,400,0,Sport,Honda,7,>69000,External,12,2022,Feb,3,Sunday,1,Urban,Policyholder,>30,No,No,Feb,3,Sunday,>30,74447.16098,1
+10252,All Perils,Male,35,Married,1,>4,500,2 to 3,Sedan,Hyundai,7,20000 to 29000,External,11,2022,Feb,3,Monday,1,Urban,Third Party,>30,No,No,Mar,5,Thursday,>30,28298.16651,1
+10260,Collision,Male,41,Married,1,2 to 4,400,0,Sedan,Toyota,7,20000 to 29000,External,10,2022,Feb,4,Tuesday,1,Urban,Policyholder,>30,No,No,Feb,4,Thursday,>30,2178.049402,1
+10289,All Perils,Male,33,Married,4,0,400,0,Sedan,Honda,7,20000 to 29000,External,9,2022,Feb,4,Thursday,1,Urban,Policyholder,>30,No,No,Mar,1,Monday,>30,2842.183161,1
+10292,All Perils,Male,68,Single,1,>4,400,0,Sedan,Mazda,>7,20000 to 29000,External,3,2022,Feb,4,Thursday,3 to 4,Urban,Policyholder,>30,No,No,Feb,4,Friday,>30,33244.15057,1
+10389,Collision,Male,63,Married,4,0,400,0,Sport,Mazda,>7,>69000,External,3,2022,Feb,4,Monday,1,Urban,Policyholder,>30,No,No,Mar,1,Monday,>30,51208.18744,1
+10393,Collision,Male,30,Single,3,2 to 4,400,0,Sedan,Mazda,7,20000 to 29000,External,2,2022,Feb,4,Monday,1,Rural,Policyholder,>30,No,No,Mar,1,Wednesday,>30,9190.959361,1
+10413,All Perils,Male,44,Married,3,1,400,0,Sedan,Honda,7,20000 to 29000,External,16,2022,Feb,4,Monday,1,Urban,Policyholder,>30,No,No,Mar,3,Tuesday,>30,5658.221462,1
+10440,Collision,Female,54,Married,2,0,400,0,Sedan,Hyundai,6,20000 to 29000,External,1,2022,Mar,1,Wednesday,1,Rural,Policyholder,>30,No,No,Mar,2,Tuesday,>30,5251.805688,1
+10442,Collision,Female,30,Single,2,0,400,0,Sedan,Mazda,6,20000 to 29000,External,10,2022,Mar,1,Wednesday,1,Urban,Policyholder,>30,No,No,Mar,1,Friday,>30,4585.112257,1
+10447,All Perils,Male,60,Married,1,1,400,0,Sedan,Toyota,6,<20000,External,10,2022,Mar,1,Wednesday,1,Urban,Policyholder,>30,No,No,Mar,1,Wednesday,>30,6820.988457,1
+10521,Collision,Male,41,Married,3,0,400,0,Sport,Mazda,7,>69000,External,12,2022,Mar,1,Saturday,1,Urban,Policyholder,>30,No,No,Mar,1,Monday,>30,61508.90773,1
+10530,Liability,Male,45,Married,2,1,400,0,Sport,Hyundai,7,20000 to 29000,External,5,2022,Mar,1,Saturday,1,Urban,Policyholder,>30,No,No,Mar,2,Thursday,>30,3851.82736,1
+10557,All Perils,Female,40,Single,1,0,400,1,Sedan,VW,7,20000 to 29000,External,9,2022,Mar,1,Sunday,1,Urban,Policyholder,>30,No,No,Mar,3,Monday,>30,8430.397857,1
+10630,Collision,Male,45,Married,3,2 to 4,400,0,Sedan,Toyota,7,20000 to 29000,External,11,2022,Mar,2,Tuesday,1,Urban,Policyholder,>30,No,No,Mar,2,Thursday,>30,3481.99293,1
+10668,Collision,Male,35,Married,4,0,400,0,Sport,Honda,6,>69000,External,9,2022,Mar,2,Wednesday,1,Urban,Policyholder,>30,No,No,Apr,1,Wednesday,>30,50374.28267,1
+10699,Collision,Female,36,Married,4,2 to 4,400,0,Sedan,Hyundai,6,30000 to 39000,Internal,10,2022,Mar,2,Thursday,1,Urban,Policyholder,>30,No,No,Mar,5,Tuesday,>30,14956.11691,1
+10703,Collision,Male,39,Married,3,0,400,0,Sedan,Toyota,7,20000 to 29000,External,15,2022,Mar,2,Friday,1,Urban,Policyholder,>30,No,No,Mar,2,Monday,>30,3081.91071,1
+10711,Collision,Female,31,Single,4,0,500,2 to 3,Sedan,Hyundai,6,20000 to 29000,External,7,2022,May,5,Wednesday,2,Urban,Third Party,>30,No,No,Jun,1,Friday,>30,5594.280051,1
+10733,Collision,Male,26,Single,2,2 to 4,400,0,Sedan,Hyundai,6,20000 to 29000,External,6,2022,Mar,2,Saturday,1,Urban,Policyholder,>30,No,Yes,Mar,4,Monday,>30,9588.196554,1
+10749,Collision,Male,39,Married,4,2 to 4,400,0,Sedan,Toyota,>7,20000 to 29000,External,16,2022,Mar,2,Saturday,1,Urban,Policyholder,>30,No,No,Mar,3,Tuesday,>30,3654.534735,1
+10772,Collision,Male,40,Married,4,1,400,0,Sedan,Mazda,5,>69000,External,5,2022,Mar,2,Sunday,1,Urban,Policyholder,>30,No,No,Mar,3,Wednesday,>30,50201.42845,1
+10838,All Perils,Male,53,Single,1,1,400,0,Sedan,Honda,>7,20000 to 29000,External,2,2022,Mar,3,Wednesday,1,Urban,Policyholder,>30,No,No,Mar,4,Wednesday,>30,2022.227813,1
+10846,Collision,Male,41,Married,3,2 to 4,400,0,Sedan,Honda,>7,20000 to 29000,External,9,2022,Mar,3,Wednesday,1,Urban,Policyholder,>30,No,No,Mar,3,Wednesday,>30,5089.422199,1
+10851,Collision,Male,28,Married,1,2 to 4,700,0,Sedan,Chevrolet,7,20000 to 29000,External,14,2022,Mar,3,Thursday,1,Rural,Policyholder,>30,No,No,Mar,3,Monday,>30,3017.24507,1
+10874,Collision,Male,36,Married,1,2 to 4,400,0,Sedan,Acura,7,>69000,External,14,2022,Mar,3,Friday,1,Urban,Policyholder,>30,No,No,Mar,4,Tuesday,>30,69841.76238,1
+10877,All Perils,Male,55,Married,4,1,400,0,Utility,Ford,>7,>69000,External,9,2022,Mar,3,Friday,1,Rural,Policyholder,>30,No,No,Mar,4,Wednesday,>30,52464.39918,1
+10879,Collision,Male,35,Married,1,1,400,4 to 8,Sedan,Honda,6,20000 to 29000,External,5,2022,Mar,3,Friday,2,Urban,Policyholder,>30,No,No,Mar,4,Wednesday,>30,6729.985724,1
+10896,All Perils,Male,53,Married,1,>4,400,0,Sedan,Hyundai,>7,>69000,External,4,2022,Mar,3,Sunday,1,Urban,Policyholder,>30,No,No,Mar,4,Monday,>30,52000.15754,1
+10900,All Perils,Male,26,Married,3,0,400,4 to 8,Utility,Acura,7,>69000,External,13,2022,Mar,3,Sunday,2,Urban,Policyholder,>30,No,No,Mar,3,Monday,>30,66415.6927,1
+10904,Collision,Male,36,Married,3,1,400,0,Sedan,Mazda,>7,30000 to 39000,External,13,2022,Mar,3,Monday,1,Urban,Policyholder,>30,No,No,Mar,4,Tuesday,>30,10327.84722,1
+10917,All Perils,Male,51,Married,1,0,400,0,Sedan,Honda,3,30000 to 39000,External,2,2022,Mar,3,Monday,1,Rural,Policyholder,>30,No,No,Mar,4,Friday,>30,4216.016807,1
+10928,Collision,Male,27,Married,3,2 to 4,400,0,Sedan,Mazda,5,20000 to 29000,External,15,2022,Mar,3,Monday,1,Urban,Policyholder,>30,No,No,Mar,4,Tuesday,>30,6925.985547,1
+10931,Collision,Male,60,Married,4,1,400,0,Sedan,Toyota,6,30000 to 39000,External,10,2022,Mar,4,Tuesday,1,Urban,Policyholder,>30,No,No,Mar,4,Thursday,>30,21536.90468,1
+10933,Collision,Male,58,Married,3,0,400,0,Sedan,Mazda,7,20000 to 29000,External,8,2022,Mar,4,Tuesday,1,Urban,Policyholder,>30,No,No,Mar,4,Wednesday,>30,3919.846899,1
+11034,Collision,Male,64,Married,4,2 to 4,400,0,Utility,Hyundai,>7,>69000,External,8,2022,Mar,4,Friday,1,Urban,Policyholder,>30,No,No,Mar,5,Thursday,>30,50754.80403,1
+11079,All Perils,Male,28,Married,4,2 to 4,400,0,Sedan,Mazda,6,20000 to 29000,External,6,2022,Mar,4,Sunday,1,Urban,Policyholder,>30,No,No,Apr,4,Wednesday,>30,8011.873634,1
+11087,Collision,Male,49,Married,1,>4,400,0,Sedan,Acura,>7,30000 to 39000,External,9,2022,Mar,4,Sunday,1,Urban,Policyholder,>30,No,No,Mar,5,Wednesday,>30,57741.21514,1
+11124,All Perils,Female,37,Single,4,0,400,0,Sedan,Hyundai,7,<20000,External,11,2022,Mar,5,Wednesday,1,Urban,Policyholder,>30,No,No,Apr,1,Wednesday,>30,6864.350133,1
+11140,Collision,Male,39,Married,3,>4,400,0,Sedan,Hyundai,>7,20000 to 29000,External,5,2022,Mar,5,Wednesday,1,Urban,Policyholder,>30,No,No,Mar,5,Thursday,>30,30078.76558,1
+11177,Collision,Male,62,Married,1,1,400,0,Sedan,Mazda,7,20000 to 29000,External,13,2022,Apr,1,Saturday,1,Urban,Policyholder,>30,No,No,Apr,2,Monday,>30,6893.215516,1
+11186,All Perils,Male,28,Married,3,0,400,0,Sedan,Hyundai,7,20000 to 29000,External,14,2022,Apr,1,Saturday,1,Urban,Policyholder,>30,No,No,Apr,1,Wednesday,>30,1279.788834,1
+11189,All Perils,Male,50,Married,2,0,400,0,Sedan,Toyota,>7,<20000,External,5,2022,Apr,1,Saturday,1,Urban,Policyholder,>30,No,No,May,2,Monday,>30,8458.766072,1
+11211,Collision,Male,28,Single,1,0,400,0,Sedan,Honda,7,20000 to 29000,External,8,2022,Apr,1,Sunday,1,Rural,Policyholder,>30,No,No,Apr,3,Monday,>30,4776.056023,1
+11267,All Perils,Male,40,Single,1,0,400,0,Sedan,Ford,7,40000 to 59000,External,14,2022,Apr,1,Monday,1,Urban,Policyholder,>30,No,No,Apr,1,Monday,>30,8579.43817,1
+11290,All Perils,Male,48,Married,1,1,400,0,Utility,Hyundai,7,>69000,External,6,2022,Apr,1,Tuesday,1,Urban,Policyholder,>30,No,No,Apr,1,Thursday,>30,66390.23369,1
+11313,All Perils,Male,33,Married,3,1,400,0,Sedan,Chevrolet,7,>69000,External,1,2022,Apr,1,Wednesday,1,Urban,Policyholder,>30,No,No,Apr,1,Thursday,>30,55057.67381,1
+11345,Collision,Male,43,Married,1,0,400,0,Sedan,Hyundai,>7,30000 to 39000,External,7,2023,Apr,1,Thursday,1,Urban,Policyholder,>30,No,No,Apr,2,Tuesday,>30,4614.032026,1
+11349,Collision,Male,48,Married,4,0,400,0,Sedan,Toyota,7,20000 to 29000,External,11,2023,Apr,1,Thursday,1,Urban,Policyholder,>30,No,No,Apr,2,Friday,>30,1462.330735,1
+11363,Liability,Male,64,Married,2,>4,400,0,Sport,Chevrolet,>7,20000 to 29000,External,13,2023,Apr,2,Friday,1,Urban,Policyholder,>30,No,No,May,1,Wednesday,>30,11960.89138,1
+11374,Collision,Male,41,Married,1,2 to 4,500,2 to 3,Sport,Honda,7,>69000,External,2,2023,Mar,2,Saturday,1,Urban,Third Party,>30,No,No,Mar,3,Monday,>30,63533.82496,1
+11411,Collision,Female,51,Married,3,1,400,0,Sedan,Hyundai,>7,30000 to 39000,External,6,2023,Apr,2,Saturday,1,Urban,Policyholder,>30,No,No,Apr,4,Wednesday,>30,12940.6619,1
+11413,Collision,Male,44,Married,1,1,400,0,Sedan,Hyundai,7,30000 to 39000,External,3,2023,Apr,2,Saturday,1,Rural,Policyholder,>30,No,No,Apr,2,Monday,>30,50934.40722,1
+11415,All Perils,Male,36,Married,4,2 to 4,400,0,Sedan,Hyundai,7,20000 to 29000,External,12,2023,Apr,2,Saturday,1,Urban,Policyholder,>30,No,No,May,1,Tuesday,>30,5054.195236,1
+11451,All Perils,Male,35,Married,2,0,400,0,Sedan,Honda,6,30000 to 39000,External,16,2023,Apr,2,Monday,1,Urban,Policyholder,>30,No,No,Apr,4,Tuesday,>30,4935.219762,1
+11578,Collision,Male,35,Married,4,2 to 4,500,2 to 3,Sedan,Honda,7,30000 to 39000,External,1,2023,Oct,3,Monday,1,Urban,Third Party,>30,No,No,Nov,4,Friday,>30,28322.54533,1
+11601,Liability,Male,42,Married,2,0,400,0,Sport,Honda,7,>69000,External,10,2023,Apr,3,Monday,1,Urban,Policyholder,>30,No,No,Apr,4,Tuesday,>30,68191.25513,1
+11668,Collision,Male,40,Married,3,2 to 4,400,0,Sedan,Honda,>7,30000 to 39000,External,1,2023,Apr,3,Thursday,1,Urban,Policyholder,>30,No,No,Jun,1,Thursday,>30,21708.09756,1
+11676,Liability,Female,55,Married,1,2 to 4,400,0,Sport,Honda,6,20000 to 29000,External,13,2023,Apr,3,Thursday,1,Urban,Policyholder,>30,No,No,Apr,4,Monday,>30,9187.969512,1
+11691,Collision,Male,46,Married,1,0,400,0,Sedan,Toyota,7,40000 to 59000,External,16,2023,Apr,4,Friday,1,Urban,Policyholder,>30,No,No,Apr,4,Monday,>30,7082.093585,1
+11808,Collision,Male,39,Married,4,0,400,0,Sport,Honda,7,>69000,External,7,2023,Apr,4,Monday,1,Urban,Policyholder,>30,No,No,Apr,4,Tuesday,>30,51938.49001,1
+11872,Collision,Male,46,Single,2,>4,400,0,Sedan,Toyota,6,20000 to 29000,External,2,2023,Apr,4,Thursday,1,Urban,Policyholder,>30,No,No,May,1,Tuesday,>30,13901.90194,1
+11899,All Perils,Male,35,Single,3,0,400,0,Sedan,Hyundai,6,<20000,External,9,2023,Apr,5,Saturday,1,Urban,Policyholder,>30,No,No,May,1,Thursday,>30,4323.417305,1
+11910,Collision,Male,58,Married,2,1,400,0,Sedan,Hyundai,7,20000 to 29000,External,14,2023,Apr,5,Sunday,1,Urban,Policyholder,>30,No,No,May,3,Friday,>30,9800.433303,1
+11915,Collision,Male,39,Married,4,1,400,0,Sedan,Honda,7,20000 to 29000,External,5,2023,May,1,Monday,1,Urban,Policyholder,>30,No,No,May,1,Tuesday,>30,7459.359198,1
+11919,All Perils,Male,58,Married,4,2 to 4,400,0,Sedan,Ford,7,20000 to 29000,External,1,2023,May,1,Monday,1,Urban,Policyholder,>30,No,No,May,4,Friday,>30,9064.978474,1
+11998,Collision,Male,44,Married,2,1,700,0,Sedan,Toyota,>7,30000 to 39000,External,1,2023,May,1,Friday,1,Rural,Policyholder,>30,No,No,May,4,Tuesday,>30,83591.43319,1
+12004,Collision,Male,37,Married,4,0,400,0,Sedan,Mazda,7,30000 to 39000,External,7,2023,May,1,Friday,1,Urban,Policyholder,>30,No,No,May,2,Tuesday,>30,8885.250702,1
+12011,Collision,Female,27,Single,4,0,400,0,Sedan,Chevrolet,6,20000 to 29000,External,15,2023,May,2,Sunday,1,Urban,Policyholder,>30,No,No,May,3,Thursday,>30,6355.61212,1
+12025,Collision,Male,31,Married,4,1,400,0,Sedan,Toyota,6,20000 to 29000,External,3,2023,May,2,Sunday,1,Urban,Policyholder,>30,No,No,Jun,1,Thursday,>30,7686.178209,1
+12037,All Perils,Male,30,Married,1,0,500,2 to 3,Sedan,Mazda,6,20000 to 29000,External,14,2023,May,2,Monday,1,Urban,Policyholder,>30,No,No,Jun,1,Monday,>30,5347.758252,1
+12052,All Perils,Male,36,Married,4,2 to 4,400,0,Sedan,Acura,7,>69000,External,2,2023,May,2,Monday,1,Urban,Policyholder,>30,No,No,May,2,Wednesday,>30,76624.97088,1
+12098,Collision,Female,26,Single,2,2 to 4,400,0,Sedan,Chevrolet,5,20000 to 29000,External,10,2023,May,2,Wednesday,1,Urban,Policyholder,>30,No,No,May,4,Monday,>30,9376.904295,1
+12120,Collision,Male,39,Married,3,1,400,0,Sedan,Honda,6,20000 to 29000,External,13,2023,May,2,Thursday,1,Urban,Policyholder,>30,No,No,May,3,Monday,>30,5085.30042,1
+12153,Collision,Male,44,Married,4,0,700,0,Sedan,Toyota,>7,30000 to 39000,External,12,2023,May,2,Friday,1,Urban,Policyholder,>30,No,No,May,3,Friday,>30,7428.092492,1
+12157,Collision,Male,24,Married,3,>4,400,0,Sedan,Mazda,6,20000 to 29000,External,10,2023,May,2,Friday,1,Rural,Policyholder,>30,No,No,May,3,Thursday,>30,15280.29786,1
+12183,Collision,Male,42,Married,1,2 to 4,400,0,Sedan,Mazda,7,20000 to 29000,External,9,2023,May,2,Friday,1,Urban,Policyholder,>30,No,No,May,4,Tuesday,>30,6711.748628,1
+12214,Collision,Male,60,Married,2,>4,400,0,Sedan,Honda,>7,20000 to 29000,External,10,2023,May,3,Sunday,1,Rural,Policyholder,>30,No,No,May,3,Wednesday,>30,13109.84382,1
+12232,All Perils,Male,39,Married,2,1,400,0,Sedan,Hyundai,7,<20000,External,15,2023,May,3,Monday,1,Urban,Policyholder,>30,No,No,May,4,Monday,>30,9126.373974,1
+12237,All Perils,Male,27,Married,3,1,400,0,Sedan,Hyundai,6,20000 to 29000,External,10,2023,May,3,Monday,1,Urban,Policyholder,>30,No,No,May,4,Tuesday,>30,2081.64442,1
+12245,All Perils,Male,36,Married,1,1,400,0,Sedan,Hyundai,7,<20000,External,7,2023,May,3,Tuesday,1,Urban,Policyholder,>30,No,No,Jul,1,Monday,>30,9696.374559,1
+12249,All Perils,Male,32,Single,3,0,400,0,Sedan,Chevrolet,6,20000 to 29000,External,13,2023,May,3,Tuesday,1,Urban,Policyholder,>30,No,No,May,4,Wednesday,>30,3343.996214,1
+12279,Collision,Male,27,Married,3,0,400,0,Sedan,Toyota,7,20000 to 29000,External,2,2023,May,3,Wednesday,1,Urban,Policyholder,>30,No,No,May,4,Wednesday,>30,9512.002216,1
+12293,Collision,Male,44,Married,3,2 to 4,400,0,Sedan,Hyundai,6,20000 to 29000,External,6,2023,May,3,Wednesday,1,Urban,Policyholder,>30,No,No,May,4,Tuesday,>30,2350.500251,1
+12367,Liability,Male,46,Married,2,2 to 4,400,0,Sport,Ford,>7,40000 to 59000,External,7,2023,May,3,Saturday,1,Urban,Policyholder,>30,No,No,May,4,Thursday,>30,60942.27125,1
+12392,Collision,Male,38,Married,2,2 to 4,400,0,Sedan,Chevrolet,6,30000 to 39000,External,14,2023,May,4,Sunday,1,Urban,Policyholder,>30,No,No,Jun,3,Tuesday,>30,58488.92439,1
+12416,Liability,Male,37,Married,3,2 to 4,400,0,Sport,Toyota,7,20000 to 29000,External,8,2023,May,4,Monday,1,Urban,Policyholder,>30,No,No,May,4,Friday,>30,7917.605579,1
+12427,Collision,Male,77,Married,4,2 to 4,400,0,Sedan,Chevrolet,>7,20000 to 29000,External,13,2023,May,4,Tuesday,1,Urban,Policyholder,>30,No,No,May,4,Friday,>30,8855.762775,1
+12433,Collision,Male,39,Married,1,>4,400,4 to 8,Sedan,Chevrolet,7,30000 to 39000,External,13,2023,May,4,Wednesday,2,Urban,Policyholder,>30,No,No,Jul,2,Wednesday,>30,69927.89407,1
+12456,Collision,Male,47,Married,1,2 to 4,400,0,Sedan,Honda,7,30000 to 39000,External,3,2023,May,4,Thursday,1,Urban,Policyholder,>30,No,No,May,5,Monday,>30,50811.16693,1
+12519,Collision,Male,35,Single,3,1,400,0,Sedan,Chevrolet,6,20000 to 29000,External,9,2023,May,4,Saturday,1,Urban,Policyholder,>30,No,No,May,5,Wednesday,>30,6298.021849,1
+12530,All Perils,Male,45,Married,4,0,400,0,Sedan,Honda,6,<20000,External,8,2023,May,4,Saturday,1,Rural,Policyholder,>30,No,No,May,5,Monday,>30,3646.167918,1
+12569,Collision,Male,45,Married,4,1,400,0,Sedan,Honda,>7,20000 to 29000,External,15,2023,May,5,Monday,1,Urban,Policyholder,>30,No,No,May,5,Wednesday,>30,3634.511314,1
+12654,Collision,Male,46,Married,1,1,400,0,Sedan,Honda,7,20000 to 29000,External,3,2023,Jun,1,Thursday,1,Urban,Policyholder,>30,No,No,Jun,1,Friday,>30,5010.930896,1
+12673,All Perils,Male,40,Married,3,0,400,0,Sedan,Toyota,>7,<20000,External,7,2023,Jun,1,Thursday,1,Urban,Policyholder,>30,No,No,Jun,2,Thursday,>30,3762.13326,1
+12725,All Perils,Female,35,Married,2,2 to 4,400,0,Sedan,Chevrolet,6,20000 to 29000,External,10,2023,Jun,1,Saturday,1,Urban,Policyholder,>30,No,No,Jun,2,Friday,>30,4468.460916,1
+12740,Collision,Male,43,Married,3,2 to 4,400,0,Sedan,Toyota,7,20000 to 29000,External,11,2023,Jun,1,Saturday,1,Urban,Policyholder,>30,No,No,Jun,1,Tuesday,>30,6223.128115,1
+12747,All Perils,Female,53,Married,3,1,400,0,Sedan,Hyundai,7,20000 to 29000,External,8,2023,Jun,1,Saturday,1,Urban,Policyholder,>30,No,No,Jun,3,Wednesday,>30,3302.913154,1
+12748,Collision,Male,52,Married,2,1,400,0,Sedan,Hyundai,>7,30000 to 39000,Internal,2,2023,Jun,1,Saturday,1,Urban,Policyholder,>30,No,No,Jun,4,Friday,>30,57888.45232,1
+12804,Collision,Male,30,Single,1,0,400,0,Sedan,Honda,6,20000 to 29000,External,15,2023,Jun,2,Wednesday,1,Urban,Policyholder,>30,No,No,Jun,4,Monday,>30,3843.907746,1
+12810,Collision,Male,27,Married,1,0,400,0,Sedan,Toyota,7,20000 to 29000,External,11,2023,Jun,2,Wednesday,1,Rural,Policyholder,>30,No,No,Jun,3,Monday,>30,3884.257099,1
+12826,All Perils,Male,42,Single,2,1,400,0,Sedan,Chevrolet,7,>69000,External,7,2023,Jun,2,Wednesday,1,Urban,Policyholder,>30,No,No,Jun,2,Monday,>30,78743.07924,1
+12835,Collision,Male,35,Married,4,2 to 4,700,0,Sedan,Mazda,7,30000 to 39000,External,1,2023,Jun,2,Thursday,1,Urban,Policyholder,>30,No,No,Jun,2,Monday,>30,30078.76558,1
+12843,All Perils,Male,67,Married,4,0,400,0,Sedan,Kia,>7,60000 to 69000,External,15,2023,Jun,2,Thursday,1,Urban,Policyholder,>30,No,No,Jun,2,Tuesday,>30,50262.89967,1
+12849,All Perils,Male,38,Married,2,2 to 4,400,0,Sedan,Honda,4,20000 to 29000,External,5,2023,Jun,2,Friday,1,Rural,Policyholder,>30,No,No,Jun,3,Monday,>30,2122.480732,1
+12865,Collision,Male,31,Single,1,1,400,0,Sedan,Hyundai,6,20000 to 29000,External,7,2023,Jun,2,Friday,1,Urban,Policyholder,>30,No,No,Aug,4,Thursday,>30,660.6033083,1
+12922,All Perils,Female,51,Married,3,2 to 4,400,0,Sedan,Mazda,7,<20000,External,1,2023,Jun,2,Monday,1,Urban,Policyholder,>30,No,No,Jun,3,Thursday,>30,2030.40158,1
+13000,Collision,Male,39,Married,4,0,400,4 to 8,Sedan,Honda,7,20000 to 29000,External,13,2023,Jun,3,Friday,2,Urban,Policyholder,>30,No,No,Jun,3,Friday,>30,8454.324173,1
+13027,All Perils,Male,27,Married,1,1,400,0,Sedan,Mazda,6,20000 to 29000,External,5,2023,Jun,3,Saturday,1,Urban,Policyholder,>30,No,No,Jun,3,Tuesday,>30,8897.560559,1
+13068,Collision,Male,40,Married,2,2 to 4,400,0,Sedan,Honda,7,20000 to 29000,External,14,2023,Jun,3,Monday,1,Urban,Policyholder,>30,No,No,Jun,4,Thursday,>30,3412.027934,1
+13088,Liability,Male,30,Married,4,>4,400,0,Sport,Hyundai,6,30000 to 39000,External,9,2023,Jun,3,Tuesday,1,Urban,Policyholder,>30,No,No,Jun,4,Wednesday,>30,21598.41026,1
+13096,Collision,Male,37,Married,3,1,400,0,Sedan,Chevrolet,6,20000 to 29000,External,8,2023,Jun,3,Tuesday,1,Urban,Policyholder,>30,No,No,Jun,4,Thursday,>30,3860.918371,1
+13130,All Perils,Male,45,Married,3,1,400,0,Utility,Chevrolet,>7,>69000,External,9,2023,Jun,4,Friday,1,Rural,Policyholder,>30,No,No,Jul,1,Tuesday,>30,69127.72128,1
+13135,All Perils,Male,34,Single,2,0,400,0,Sedan,Mazda,6,30000 to 39000,External,1,2023,Jun,4,Saturday,1,Urban,Policyholder,>30,No,No,Jul,2,Tuesday,>30,7536.289894,1
+13159,All Perils,Male,38,Married,4,2 to 4,500,2 to 3,Sedan,Toyota,7,20000 to 29000,External,14,2023,Jun,4,Monday,1,Urban,Third Party,>30,No,No,Jul,1,Saturday,>30,1573.556812,1
+13211,All Perils,Male,30,Married,2,>4,400,0,Sedan,Ford,6,40000 to 59000,External,6,2023,Jun,5,Wednesday,1,Rural,Policyholder,>30,No,No,Aug,5,Thursday,>30,55057.67381,1
+13226,All Perils,Male,57,Married,3,0,400,0,Utility,Acura,>7,>69000,External,2,2023,Jun,5,Thursday,1,Urban,Policyholder,>30,No,No,Jul,2,Wednesday,>30,67668.95452,1
+13230,Collision,Female,64,Single,2,>4,400,0,Sedan,Chevrolet,>7,20000 to 29000,External,11,2023,Jun,5,Friday,1,Urban,Policyholder,>30,No,No,Jul,1,Monday,>30,14619.9996,1
+13232,Collision,Male,46,Divorced,4,0,400,0,Sedan,Hyundai,6,20000 to 29000,External,4,2023,Jun,5,Friday,1,Urban,Policyholder,>30,No,No,Jul,1,Wednesday,>30,6921.817626,1
+13234,Collision,Male,43,Married,1,>4,400,0,Sedan,Honda,>7,30000 to 39000,External,12,2023,Jun,5,Friday,1,Urban,Policyholder,>30,No,No,Jul,1,Tuesday,>30,69032.49752,1
+13242,All Perils,Male,30,Single,3,1,400,0,Sedan,Chevrolet,7,20000 to 29000,External,4,2023,Jun,5,Friday,1,Urban,Policyholder,>30,No,No,Jul,1,Tuesday,>30,7140.502196,1
+13264,All Perils,Male,22,Single,4,2 to 4,400,0,Sedan,Hyundai,5,<20000,External,3,2023,Jul,1,Saturday,1,Urban,Policyholder,>30,No,Yes,Jul,2,Tuesday,>30,6843.882212,1
+13299,Liability,Male,53,Married,3,2 to 4,400,0,Sport,Toyota,7,20000 to 29000,External,13,2023,Jul,1,Monday,1,Urban,Policyholder,>30,No,No,Jul,2,Tuesday,>30,2876.112651,1
+13361,Collision,Male,46,Single,3,1,400,0,Sport,Honda,>7,>69000,External,11,2023,Jul,1,Thursday,1,Urban,Policyholder,>30,No,No,Jul,1,Thursday,>30,63535.61003,1
+13396,All Perils,Male,35,Single,4,1,400,0,Sedan,Hyundai,6,<20000,External,15,2023,Jul,2,Saturday,1,Urban,Policyholder,>30,No,No,Aug,1,Wednesday,>30,3225.840537,1
+13426,All Perils,Female,30,Married,1,1,400,0,Sedan,Toyota,6,20000 to 29000,External,7,2023,Jul,2,Monday,1,Urban,Policyholder,>30,No,No,Jul,4,Friday,>30,5341.585228,1
+13448,Liability,Male,46,Married,1,0,400,0,Sport,Toyota,>7,30000 to 39000,External,1,2023,Jul,2,Monday,1,Urban,Policyholder,>30,No,Yes,Jul,2,Wednesday,15 to 30,5737.415519,1
+13518,Collision,Male,37,Single,1,0,400,0,Sport,Mazda,>7,>69000,External,16,2023,Jul,2,Thursday,1,Urban,Policyholder,>30,No,No,Jul,3,Monday,>30,52419.37979,1
+13523,Collision,Male,30,Married,1,2 to 4,400,0,Sedan,Ford,7,40000 to 59000,External,16,2023,Jul,3,Friday,1,Urban,Policyholder,>30,No,No,Sep,1,Friday,>30,92071.02273,1
+13535,Collision,Male,60,Married,3,2 to 4,400,0,Sedan,Chevrolet,7,20000 to 29000,External,9,2023,Jul,3,Friday,1,Urban,Policyholder,>30,No,No,Jul,3,Monday,>30,1356.890353,1
+13585,Collision,Male,31,Married,4,1,400,0,Sedan,Honda,6,>69000,External,3,2023,Jul,3,Monday,1,Urban,Policyholder,>30,No,No,Jul,3,Monday,>30,69127.72128,1
+13626,Collision,Male,27,Single,3,0,400,0,Sport,Honda,5,>69000,External,16,2023,Jul,3,Monday,1,Urban,Policyholder,>30,No,No,Sep,3,Friday,>30,67031.36799,1
+13631,All Perils,Male,41,Married,4,2 to 4,400,0,Sedan,Ford,>7,40000 to 59000,External,15,2023,Jul,3,Tuesday,1,Urban,Policyholder,>30,No,No,Sep,2,Friday,>30,26648.42488,1
+13651,All Perils,Male,43,Married,4,2 to 4,400,1,Sedan,Toyota,7,20000 to 29000,External,3,2023,Jul,3,Wednesday,2,Urban,Policyholder,>30,No,No,Jul,4,Monday,>30,5092.763791,1
+13655,All Perils,Male,28,Married,3,1,400,0,Sedan,Toyota,6,<20000,External,15,2023,Jul,3,Thursday,1,Urban,Policyholder,>30,No,No,Aug,1,Tuesday,>30,1991.663266,1
+13689,Collision,Male,41,Married,2,2 to 4,400,0,Sedan,Honda,7,30000 to 39000,External,6,2023,Jul,4,Friday,1,Urban,Policyholder,>30,No,No,Jul,4,Tuesday,>30,69032.49752,1
+13714,Collision,Male,41,Single,3,0,400,4 to 8,Sedan,Hyundai,>7,20000 to 29000,External,8,2023,Jul,4,Sunday,2,Urban,Policyholder,>30,No,No,Jul,4,Thursday,>30,7691.115959,1
+13727,Collision,Male,30,Married,4,2 to 4,400,0,Sedan,Mazda,6,20000 to 29000,External,15,2023,Jul,4,Monday,1,Urban,Policyholder,>30,No,No,Jul,4,Tuesday,>30,8843.099105,1
+13799,All Perils,Male,38,Married,3,2 to 4,400,0,Utility,Hyundai,>7,40000 to 59000,External,15,2023,Jul,4,Thursday,1,Urban,Policyholder,8 to 15,No,No,Aug,1,Thursday,>30,12557.79974,1
+13803,All Perils,Male,52,Married,4,2 to 4,400,0,Sedan,Mazda,>7,20000 to 29000,External,7,2023,Jul,4,Thursday,1,Urban,Policyholder,>30,No,Yes,Aug,1,Thursday,>30,1903.304866,1
+13819,Collision,Male,35,Single,1,0,400,4 to 8,Sedan,Toyota,6,30000 to 39000,External,15,2023,Jul,5,Friday,2,Urban,Policyholder,>30,No,No,Aug,1,Friday,>30,6372.62457,1
+13856,Collision,Male,19,Single,4,2 to 4,400,0,Sport,Honda,3,>69000,External,2,2023,Jul,5,Saturday,1,Urban,Policyholder,>30,No,No,Aug,1,Thursday,>30,71748.16292,1
+13882,All Perils,Male,29,Married,3,0,400,4 to 8,Utility,Acura,6,>69000,External,6,2023,Aug,1,Tuesday,2,Urban,Policyholder,>30,No,No,Aug,2,Monday,>30,61132.4291,1
+13900,All Perils,Female,36,Married,1,1,400,0,Sedan,Toyota,7,<20000,External,11,2023,Aug,1,Thursday,3 to 4,Urban,Policyholder,>30,No,No,Aug,2,Monday,>30,1242.965757,1
+13910,All Perils,Male,53,Married,1,0,400,0,Sedan,Ford,>7,40000 to 59000,External,3,2023,Aug,1,Friday,1,Urban,Policyholder,>30,No,No,Aug,2,Monday,>30,2990.124297,1
+13916,Collision,Male,34,Single,1,0,400,0,Sport,Mazda,6,>69000,External,15,2023,Aug,1,Saturday,1,Urban,Policyholder,>30,No,No,Aug,2,Thursday,>30,73871.31012,1
+13943,Collision,Male,53,Married,4,0,400,0,Sedan,Honda,>7,20000 to 29000,External,1,2023,Aug,1,Sunday,1,Urban,Policyholder,>30,No,No,Aug,3,Friday,>30,5842.501998,1
+13947,Collision,Male,46,Married,1,1,400,0,Sedan,Honda,>7,30000 to 39000,External,8,2023,Aug,2,Monday,1,Urban,Policyholder,>30,No,No,Aug,3,Thursday,>30,50290.01757,1
+14011,All Perils,Male,32,Married,1,0,400,0,Utility,Acura,6,>69000,External,8,2023,Aug,2,Sunday,1,Urban,Policyholder,>30,No,No,Aug,3,Wednesday,>30,52357.48272,1
+14021,All Perils,Male,35,Single,4,0,400,0,Sedan,Toyota,7,20000 to 29000,External,8,2023,Aug,3,Monday,1,Urban,Policyholder,>30,No,No,Aug,5,Wednesday,>30,1154.756295,1
+14058,Collision,Male,41,Married,4,2 to 4,400,0,Sedan,Chevrolet,7,20000 to 29000,External,1,2023,Aug,3,Tuesday,1,Urban,Policyholder,>30,No,No,Aug,4,Tuesday,>30,7733.757718,1
+14096,Collision,Male,48,Married,1,0,400,0,Sport,Honda,>7,>69000,External,14,2023,Aug,3,Wednesday,1,Urban,Policyholder,>30,No,No,Aug,4,Thursday,>30,65677.76153,1
+14110,Collision,Male,46,Single,3,1,400,0,Sedan,Honda,7,20000 to 29000,External,7,2023,Aug,3,Thursday,1,Urban,Policyholder,>30,No,No,Aug,3,Friday,>30,3322.925335,1
+14116,All Perils,Male,57,Married,4,1,400,0,Sedan,Toyota,7,<20000,External,16,2023,Aug,3,Thursday,1,Urban,Policyholder,>30,No,No,Aug,3,Saturday,>30,3834.681022,1
+14127,All Perils,Male,26,Married,3,0,400,0,Sedan,Hyundai,6,20000 to 29000,External,10,2023,Aug,3,Friday,1,Urban,Policyholder,>30,No,No,Aug,4,Monday,>30,2048.032909,1
+14128,Collision,Male,31,Married,4,>4,500,2 to 3,Sedan,Honda,6,20000 to 29000,External,6,2023,Feb,3,Tuesday,1,Urban,Third Party,>30,No,No,Feb,3,Friday,>30,10791.3632,1
+14134,Collision,Female,31,Married,4,1,400,4 to 8,Sedan,Mazda,6,30000 to 39000,External,3,2023,Aug,3,Friday,2,Urban,Policyholder,>30,No,No,Aug,4,Monday,>30,20994.0791,1
+14224,Collision,Male,39,Married,3,0,400,0,Sedan,Hyundai,7,>69000,External,9,2023,Aug,4,Friday,1,Urban,Policyholder,0,No,No,Dec,1,Friday,>30,96853.04458,1
+14249,Collision,Male,16,Single,2,0,400,0,Sedan,Honda,0,>69000,External,5,2023,Aug,4,Sunday,1,Urban,Policyholder,>30,No,No,Sep,1,Friday,>30,82211.85926,1
+14289,Collision,Male,59,Married,4,2 to 4,400,0,Sedan,Chevrolet,>7,20000 to 29000,External,7,2023,Aug,5,Monday,1,Urban,Policyholder,>30,No,No,Aug,5,Wednesday,>30,8131.216984,1
+14336,All Perils,Male,41,Single,4,1,400,0,Utility,Acura,6,>69000,External,5,2023,Aug,5,Wednesday,1,Urban,Policyholder,>30,No,No,Sep,4,Friday,>30,50754.80403,1
+14342,Collision,Male,31,Married,2,0,400,0,Sedan,Toyota,6,<20000,External,16,2023,Aug,5,Thursday,1,Urban,Policyholder,>30,No,No,Sep,1,Tuesday,>30,6864.91374,1
+14367,Collision,Female,28,Married,2,0,400,0,Sedan,Toyota,5,20000 to 29000,External,3,2023,Sep,1,Saturday,1,Urban,Policyholder,>30,No,No,Sep,1,Tuesday,>30,9474.514134,1
+14388,All Perils,Female,48,Married,4,0,400,0,Sedan,Toyota,>7,<20000,External,14,2023,Sep,1,Saturday,1,Urban,Policyholder,>30,No,No,Sep,3,Friday,>30,3851.82736,1
+14391,All Perils,Male,23,Single,3,1,400,0,Sedan,Mazda,5,<20000,External,3,2023,Sep,1,Sunday,1,Urban,Policyholder,>30,No,No,Sep,1,Monday,>30,8123.078216,1
+14393,Collision,Male,28,Single,3,1,400,0,Sedan,Hyundai,6,20000 to 29000,External,7,2023,Sep,1,Sunday,1,Urban,Policyholder,>30,No,No,Sep,2,Thursday,>30,4261.476455,1
+14406,Collision,Male,34,Single,3,>4,400,0,Sedan,Hyundai,5,30000 to 39000,External,4,2023,Sep,1,Monday,1,Urban,Policyholder,>30,No,No,Sep,2,Wednesday,>30,48033.10096,1
+14435,Collision,Male,29,Married,4,2 to 4,400,0,Sedan,Toyota,7,30000 to 39000,External,16,2023,Sep,2,Thursday,1,Urban,Policyholder,>30,No,No,Sep,3,Thursday,>30,23392.64202,1
+14472,All Perils,Male,53,Married,2,0,400,0,Sedan,Honda,>7,<20000,External,4,2023,Sep,2,Friday,1,Urban,Policyholder,>30,No,No,Sep,4,Wednesday,>30,7112.197072,1
+14485,Collision,Female,24,Single,2,0,400,2 to 3,Sport,Honda,5,>69000,External,1,2023,Sep,2,Friday,1,Urban,Policyholder,8 to 15,No,No,Sep,2,Wednesday,15 to 30,71756.94132,1
+14514,Collision,Female,34,Single,2,>4,400,0,Sedan,Hyundai,5,20000 to 29000,External,3,2023,Sep,2,Sunday,1,Urban,Policyholder,>30,No,No,Sep,2,Monday,>30,37902.63528,1
+14516,Collision,Male,53,Married,3,1,400,0,Sedan,Toyota,>7,20000 to 29000,External,1,2023,Sep,2,Monday,1,Rural,Policyholder,>30,No,No,Oct,1,Sunday,>30,2633.555243,1
+14524,Collision,Male,32,Married,4,2 to 4,400,0,Sedan,Honda,7,20000 to 29000,External,4,2023,Sep,2,Monday,1,Urban,Policyholder,>30,No,No,Sep,2,Tuesday,>30,2779.27869,1
+14539,Collision,Male,18,Single,2,0,400,0,Sedan,Dodge,4,20000 to 29000,External,16,2023,Sep,2,Monday,1,Urban,Policyholder,>30,No,No,Sep,3,Wednesday,>30,9266.561857,1
+14556,Collision,Male,29,Single,3,1,400,0,Sedan,Hyundai,7,30000 to 39000,External,12,2023,Sep,2,Tuesday,3 to 4,Urban,Policyholder,>30,No,No,Sep,3,Thursday,>30,10349.80088,1
+14572,Collision,Male,40,Married,2,0,400,0,Sedan,Hyundai,6,20000 to 29000,External,1,2023,Sep,2,Wednesday,1,Urban,Policyholder,>30,No,No,Sep,3,Monday,>30,4665.096164,1
+14580,Collision,Male,31,Single,2,>4,400,0,Sedan,Hyundai,7,20000 to 29000,External,1,2023,Sep,2,Wednesday,1,Urban,Policyholder,>30,No,No,Sep,2,Wednesday,>30,23190.22379,1
+14587,All Perils,Male,31,Single,1,0,500,2 to 3,Sedan,Hyundai,6,<20000,External,10,2023,Sep,3,Monday,1,Urban,Third Party,>30,No,No,Sep,4,Thursday,>30,3997.401745,1
+14670,All Perils,Male,61,Married,4,0,400,0,Sedan,VW,6,20000 to 29000,External,5,2023,Sep,3,Tuesday,1,Rural,Policyholder,>30,No,No,Oct,1,Thursday,>30,6936.142053,1
+14686,Collision,Male,30,Married,2,0,400,0,Sedan,Mazda,6,>69000,External,13,2023,Sep,3,Wednesday,1,Urban,Policyholder,>30,No,No,Sep,4,Friday,>30,86797.1844,1
+14751,Collision,Male,24,Single,3,0,400,0,Sedan,Hyundai,5,20000 to 29000,External,1,2023,Sep,4,Friday,1,Urban,Policyholder,>30,No,No,Sep,4,Tuesday,>30,9469.614715,1
+14808,Collision,Male,28,Married,3,0,400,0,Sedan,Mazda,7,20000 to 29000,External,15,2023,Sep,5,Thursday,1,Urban,Policyholder,>30,No,No,Sep,5,Thursday,>30,2738.461177,1
+14822,Collision,Male,31,Single,3,0,400,0,Sedan,Chevrolet,6,20000 to 29000,External,7,2023,Sep,5,Saturday,1,Urban,Policyholder,>30,No,No,Oct,1,Friday,>30,3822.276242,1
+14876,Collision,Male,26,Married,3,0,400,0,Sedan,Honda,7,20000 to 29000,External,16,2023,Oct,1,Tuesday,1,Urban,Policyholder,>30,No,No,Oct,1,Wednesday,>30,1542.778314,1
+14877,Collision,Male,41,Widow,4,2 to 4,400,0,Sedan,VW,>7,60000 to 69000,Internal,6,2023,Oct,1,Tuesday,1,Urban,Policyholder,>30,No,No,Oct,1,Friday,>30,67668.95452,1
+14906,Collision,Male,30,Married,1,0,400,0,Sedan,Toyota,5,20000 to 29000,External,3,2023,Oct,1,Thursday,1,Rural,Policyholder,>30,No,No,Oct,3,Monday,>30,7110.604302,1
+14943,Collision,Male,26,Single,1,0,400,0,Sedan,Toyota,4,20000 to 29000,External,12,2023,Oct,2,Saturday,1,Urban,Policyholder,8 to 15,No,No,Oct,4,Tuesday,>30,4658.427247,1
+14998,All Perils,Male,26,Married,4,0,400,0,Sedan,Ram,6,20000 to 29000,External,15,2023,Oct,3,Saturday,1,Urban,Policyholder,>30,No,No,Oct,3,Tuesday,>30,7518.591611,1
+15046,All Perils,Male,45,Married,2,0,500,2 to 3,Sedan,Mazda,6,20000 to 29000,External,13,2023,Oct,3,Sunday,1,Urban,Third Party,>30,No,No,Oct,4,Saturday,>30,5894.594682,1
+15062,All Perils,Male,61,Single,1,2 to 4,400,0,Sedan,Acura,>7,>69000,External,2,2023,Oct,3,Monday,1,Urban,Policyholder,>30,No,No,Oct,3,Wednesday,>30,50201.42845,1
+15066,Collision,Male,66,Married,2,0,400,0,Sport,Honda,6,>69000,External,2,2023,Oct,3,Monday,1,Urban,Policyholder,>30,No,No,Oct,3,Tuesday,>30,53588.10536,1
+15088,Collision,Male,38,Married,2,0,400,0,Sedan,Honda,7,20000 to 29000,External,3,2023,Oct,3,Wednesday,1,Urban,Policyholder,>30,No,No,Oct,4,Monday,>30,1652.635259,1
+15107,Collision,Male,54,Married,2,2 to 4,400,1,Sedan,Mazda,>7,30000 to 39000,External,6,2023,Oct,3,Thursday,1,Urban,Policyholder,>30,No,No,Oct,3,Friday,>30,56510.95372,1
+15112,All Perils,Male,68,Married,3,0,400,0,Sedan,Honda,>7,20000 to 29000,External,16,2023,Oct,3,Thursday,1,Urban,Policyholder,>30,No,No,Oct,3,Friday,>30,4149.537496,1
+15116,Collision,Male,28,Single,2,2 to 4,400,0,Sedan,Honda,3,20000 to 29000,External,11,2023,Oct,3,Thursday,1,Urban,Policyholder,>30,No,No,Oct,4,Tuesday,>30,8794.843273,1
+15121,All Perils,Male,50,Married,3,2 to 4,400,4 to 8,Utility,Chevrolet,7,>69000,External,9,2023,Oct,3,Friday,2,Urban,Policyholder,>30,No,No,Oct,4,Tuesday,>30,71010.05451,1
+15182,Collision,Female,24,Single,4,1,400,0,Sedan,Toyota,5,20000 to 29000,External,3,2023,Oct,4,Tuesday,1,Urban,Policyholder,>30,No,No,Oct,4,Wednesday,>30,5165.017566,1
+15346,Collision,Male,46,Married,1,0,700,0,Sedan,Chevrolet,>7,20000 to 29000,External,11,2023,Nov,2,Tuesday,1,Urban,Policyholder,>30,No,No,Nov,3,Friday,>30,7879.995442,1
+15376,Collision,Female,33,Single,4,0,400,0,Sedan,Hyundai,5,20000 to 29000,External,3,2023,Nov,2,Saturday,3 to 4,Urban,Policyholder,>30,No,No,Nov,4,Monday,>30,9688.488701,1
+15410,Collision,Female,65,Married,3,>4,400,0,Sedan,Mazda,7,20000 to 29000,External,7,2023,Nov,3,Friday,1,Urban,Policyholder,>30,No,No,Nov,3,Sunday,>30,11105.10376,1
+15416,Collision,Male,35,Married,4,2 to 4,400,0,Sedan,Toyota,6,20000 to 29000,External,5,2023,Nov,4,Friday,1,Urban,Policyholder,>30,No,No,Nov,5,Tuesday,>30,5333.907501,1
+15420,Collision,Male,21,Single,4,0,400,0,Sedan,Toyota,5,20000 to 29000,External,3,2023,Dec,2,Wednesday,1,Urban,Policyholder,>30,No,No,Dec,3,Thursday,>30,1605.410804,1
