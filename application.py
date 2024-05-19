@@ -26,7 +26,7 @@ class DataDashboard(QMainWindow):
         super().__init__()
 
         self.setWindowTitle("Data Visualization Dashboard")
-        self.setGeometry(100, 100, 800, 600)
+        self.setGeometry(100, 100, 800, 800)
 
         
         self.central_widget = QWidget()
